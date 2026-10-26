@@ -1,0 +1,286 @@
+# Sources for the feed builder.
+#
+# To add a source: copy one block, change name/url/site. To pause one: set enabled: false.
+#
+# Fields
+#   name            shown in the feed and dashboard
+#   url             the RSS/Atom feed address
+#   site            the site's home page (used as a link)
+#   tier            A = core, B = secondary, C = optional (C sources start switched off)
+#   enabled         true / false
+#   keep_unmatched  true = keep items that match no keyword (labelled "Other"). For news sites
+#                   where almost everything is relevant.
+#   default_signal  label to use when no keyword matches (Drop, Collab, Sale, Outlet, Review).
+#                   For sources that are about one thing, like deal subreddits.
+#   footwear_only   true = the item must mention footwear (see "footwear" in keywords.yml).
+#                   For sources that also post clothing.
+#
+# A source with neither keep_unmatched nor default_signal keeps only items that match a keyword.
+#
+# Feed addresses marked "to test" in the planning sheet are guesses. If one is broken, the
+# dashboard's "Source status" list shows it with the error, and the rest keep working.
+
+defaults:
+  max_age_days: 14
+  max_items: 600
+  per_source_limit: 40
+sources:
+- name: Sneaker News
+  url: https://sneakernews.com/feed/
+  site: https://sneakernews.com/
+  tier: A
+  enabled: true
+  keep_unmatched: true
+- name: Nice Kicks
+  url: https://www.nicekicks.com/feed/
+  site: https://www.nicekicks.com/
+  tier: A
+  enabled: true
+  keep_unmatched: true
+- name: Sneaker Bar Detroit
+  url: https://sneakerbardetroit.com/feed/
+  site: https://sneakerbardetroit.com/
+  tier: A
+  enabled: true
+  keep_unmatched: true
+- name: Hypebeast Footwear
+  url: https://hypebeast.com/footwear/feed
+  site: https://hypebeast.com/footwear
+  tier: A
+  enabled: true
+- name: Sneaker Freaker
+  url: https://www.sneakerfreaker.com/feed
+  site: https://www.sneakerfreaker.com/
+  tier: A
+  enabled: true
+  keep_unmatched: true
+- name: WearTesters
+  url: https://weartesters.com/feed/
+  site: https://weartesters.com/
+  tier: A
+  enabled: true
+  default_signal: Review
+- name: 'Slickdeals: sneakers'
+  url: https://slickdeals.net/newsearch.php?q=sneakers&rss=1
+  site: https://slickdeals.net/newsearch.php?q=sneakers
+  tier: A
+  enabled: true
+  default_signal: Sale
+  footwear_only: true
+- name: r/SneakerDeals
+  url: https://www.reddit.com/r/SneakerDeals/new/.rss
+  site: https://www.reddit.com/r/SneakerDeals/
+  tier: A
+  enabled: true
+  default_signal: Sale
+- name: r/midsoledeals
+  url: https://www.reddit.com/r/midsoledeals/new/.rss
+  site: https://www.reddit.com/r/midsoledeals/
+  tier: A
+  enabled: true
+  default_signal: Sale
+- name: r/Sneakers
+  url: https://www.reddit.com/r/Sneakers/new/.rss
+  site: https://www.reddit.com/r/Sneakers/
+  tier: A
+  enabled: true
+- name: Kicks On Fire
+  url: https://www.kicksonfire.com/feed/
+  site: https://www.kicksonfire.com/
+  tier: B
+  enabled: true
+  keep_unmatched: true
+- name: Sneaker Files
+  url: https://sneakerfiles.com/feed/
+  site: https://sneakerfiles.com/
+  tier: B
+  enabled: true
+  keep_unmatched: true
+- name: Sneaker Report
+  url: https://sneakerreport.com/feed/
+  site: https://sneakerreport.com/
+  tier: B
+  enabled: true
+  keep_unmatched: true
+- name: Highsnobiety
+  url: https://www.highsnobiety.com/feed/
+  site: https://www.highsnobiety.com/
+  tier: B
+  enabled: true
+  footwear_only: true
+- name: Believe in the Run
+  url: https://believeintherun.com/feed/
+  site: https://believeintherun.com/
+  tier: B
+  enabled: true
+  default_signal: Review
+- name: Heddels
+  url: https://www.heddels.com/feed/
+  site: https://www.heddels.com/
+  tier: B
+  enabled: true
+  footwear_only: true
+- name: r/frugalmalefashion
+  url: https://www.reddit.com/r/frugalmalefashion/new/.rss
+  site: https://www.reddit.com/r/frugalmalefashion/
+  tier: B
+  enabled: true
+  default_signal: Sale
+  footwear_only: true
+- name: r/FrugalFemaleFashion
+  url: https://www.reddit.com/r/FrugalFemaleFashion/new/.rss
+  site: https://www.reddit.com/r/FrugalFemaleFashion/
+  tier: B
+  enabled: true
+  default_signal: Sale
+  footwear_only: true
+- name: r/RunningShoeGeeks
+  url: https://www.reddit.com/r/RunningShoeGeeks/new/.rss
+  site: https://www.reddit.com/r/RunningShoeGeeks/
+  tier: B
+  enabled: true
+- name: r/goodyearwelt
+  url: https://www.reddit.com/r/goodyearwelt/new/.rss
+  site: https://www.reddit.com/r/goodyearwelt/
+  tier: B
+  enabled: true
+  footwear_only: true
+- name: r/streetwear
+  url: https://www.reddit.com/r/streetwear/new/.rss
+  site: https://www.reddit.com/r/streetwear/
+  tier: B
+  enabled: true
+  footwear_only: true
+- name: Kith
+  url: https://kith.com/collections/all.atom
+  site: https://kith.com/
+  tier: B
+  enabled: true
+  default_signal: Drop
+  footwear_only: true
+- name: Concepts
+  url: https://cncpts.com/collections/all.atom
+  site: https://cncpts.com/
+  tier: B
+  enabled: true
+  default_signal: Drop
+  footwear_only: true
+- name: Bodega
+  url: https://bdgastore.com/collections/all.atom
+  site: https://bdgastore.com/
+  tier: B
+  enabled: true
+  default_signal: Drop
+  footwear_only: true
+- name: Undefeated
+  url: https://undefeated.com/collections/all.atom
+  site: https://undefeated.com/
+  tier: B
+  enabled: true
+  default_signal: Drop
+  footwear_only: true
+- name: A Ma Maniére
+  url: https://www.a-ma-maniere.com/collections/all.atom
+  site: https://www.a-ma-maniere.com/
+  tier: B
+  enabled: true
+  default_signal: Drop
+  footwear_only: true
+- name: Footwear News
+  url: https://footwearnews.com/feed/
+  site: https://footwearnews.com/
+  tier: C
+  enabled: false
+  footwear_only: true
+- name: Gear Patrol
+  url: https://www.gearpatrol.com/feed/
+  site: https://www.gearpatrol.com/
+  tier: C
+  enabled: false
+  footwear_only: true
+- name: r/sneakermarket
+  url: https://www.reddit.com/r/sneakermarket/new/.rss
+  site: https://www.reddit.com/r/sneakermarket/
+  tier: C
+  enabled: false
+  footwear_only: true
+- name: Social Status
+  url: https://www.socialstatus.com/collections/all.atom
+  site: https://www.socialstatus.com/
+  tier: C
+  enabled: false
+  default_signal: Drop
+  footwear_only: true
+- name: Extra Butter
+  url: https://extrabutterny.com/collections/all.atom
+  site: https://extrabutterny.com/
+  tier: C
+  enabled: false
+  default_signal: Drop
+  footwear_only: true
+- name: Sneaker Politics
+  url: https://sneakerpolitics.com/collections/all.atom
+  site: https://sneakerpolitics.com/
+  tier: C
+  enabled: false
+  default_signal: Drop
+  footwear_only: true
+- name: Packer Shoes
+  url: https://packershoes.com/collections/all.atom
+  site: https://packershoes.com/
+  tier: C
+  enabled: false
+  default_signal: Drop
+  footwear_only: true
+
+# Sources with no known feed (need scraping or a feed generator; not supported by this builder yet):
+#   [A] Sole Retriever - https://www.soleretriever.com/
+#   [A] Nike SNKRS launches - https://www.nike.com/launch
+#   [A] SoleFeed - https://solefeed.com/
+#   [A] Sneakerjagers - https://www.sneakerjagers.com/
+#   [A] END. Launches - https://launches.endclothing.com/
+#   [B] The Sole Supplier - https://www.thesolesupplier.co.uk/
+#   [B] adidas release dates - https://www.adidas.com/us/release-dates
+#   [B] Complex Sneakers - https://www.complex.com/sneakers
+#   [B] HotUKDeals - https://www.hotukdeals.com/
+#   [B] Mydealz - https://www.mydealz.de/
+#   [B] Pepper.pl - https://www.pepper.pl/
+#   [B] Footpatrol - https://www.footpatrol.com/
+#   [B] Sneakersnstuff - https://www.sneakersnstuff.com/
+#   [B] Solebox - https://www.solebox.com/
+#   [B] Overkill - https://www.overkillshop.com/
+#   [B] Afew - https://en.afew-store.com/
+#   [B] Slam Jam - https://slamjam.com/
+#   [B] Joe's New Balance Outlet - https://www.joesnewbalanceoutlet.com/
+#   [B] Zalando Lounge - https://www.zalando-lounge.com/
+#   [C] Hibbett launch calendar - https://www.hibbett.com/launch-calendar/
+#   [C] RunRepeat - https://runrepeat.com/
+#   [C] Lyst - https://www.lyst.com/
+#   [C] Size? - https://www.size.co.uk/
+#   [C] Offspring - https://www.offspring.co.uk/
+#   [C] 43einhalb - https://www.43einhalb.com/
+#   [C] atmos (Japan) - https://www.atmos-tokyo.com/
+#   [C] Zalando - https://www.zalando.com/
+#   [C] About You - https://www.aboutyou.com/
+#   [C] Nordstrom Rack - https://www.nordstromrack.com/
+#   [C] 6pm - https://www.6pm.com/
+#   [C] Yoox - https://www.yoox.com/
+#   [C] SSENSE - https://www.ssense.com/
+#   [C] JD Sports - https://www.jdsports.co.uk/
+#   [C] Foot Locker - https://www.footlocker.com/
+#   [C] Nike Sale - https://www.nike.com/w/sale
+#   [C] adidas Outlet - https://www.adidas.com/us/outlet
+#   [C] New Balance - https://www.newbalance.com/
+#   [C] ASICS - https://www.asics.com/
+#   [C] Puma - https://eu.puma.com/
+#   [C] Saucony - https://www.saucony.com/
+#   [C] HOKA - https://www.hoka.com/
+#   [C] On - https://www.on.com/
+#   [C] Salomon - https://www.salomon.com/
+#   [C] Converse - https://www.converse.com/
+#   [C] Vans - https://www.vans.com/
+#   [C] Reebok - https://www.reebok.com/
+#   [C] Dr. Martens - https://www.drmartens.com/
+#   [C] Sizeer - https://sizeer.com/
+#   [C] Intertop - https://intertop.ua/
+#   [C] NikeTalk - https://niketalk.com/

@@ -1,0 +1,122 @@
+# Keyword rules. Edit this file in GitHub's web editor to tune what gets through.
+#
+# How matching works
+#  - Matching is case-insensitive and looks at the title plus the first 300
+#    characters of the summary.
+#  - A plain word matches from the start of a word: "release" also matches
+#    "releases" and "released". Several words must appear in that order.
+#  - A term starting with "re:" is a raw regular expression.
+#  - "exclude" is checked against the TITLE only. One hit removes the item.
+
+signals:
+  Drop:
+    - release
+    - launch
+    - restock
+    - raffle
+    - first look
+    - official images
+    - exclusive
+    - where to buy
+    - available now
+    - pre-order
+    - preorder
+    - coming soon
+    - "re:\\b(?:drops?|dropping)\\b"
+  Collab:
+    - collab
+    - partnership
+    - capsule
+    - teams up
+    - friends and family
+    - "re:\\s[x×]\\s"
+  Sale:
+    - sale
+    - discount
+    - promo code
+    - coupon
+    - markdown
+    - price drop
+    - dropped to
+    - steal
+    - black friday
+    - cyber monday
+    - "re:\\b\\d{1,2}\\s?%\\s?off"
+    - percent off
+    - "re:\\bup to \\d{1,2}\\s?%"
+    - "re:\\bunder \\$\\d+"
+    - "re:\\bdeals?\\b"
+  Outlet:
+    - outlet
+    - clearance
+    - warehouse sale
+    - final sale
+    - last chance
+  Review:
+    - review
+    - on-feet
+    - on feet
+    - hands-on
+    - wear test
+    - first impressions
+    - long-term
+    - unboxing
+
+# Items from sources marked footwear_only must mention one of these.
+footwear:
+  - sneaker
+  - shoe
+  - trainer
+  - boot
+  - runner
+  - running
+  - loafer
+  - sandal
+  - slide
+  - clog
+  - air jordan
+  - air max
+  - air force
+  - dunk
+  - yeezy
+  - samba
+  - gazelle
+  - nike
+  - adidas
+  - jordan
+  - new balance
+  - asics
+  - hoka
+  - salomon
+  - converse
+  - vans
+  - puma
+  - reebok
+  - saucony
+  - birkenstock
+  - dr. martens
+  - crocs
+  - ugg
+  - on cloud
+
+exclude:
+  - wdywt
+  - pickup
+  - pick up
+  - legit check
+  - "re:\\blc\\b"
+  - w2c
+  - "re:\\bqc\\b"
+  - giveaway
+  - need help
+  - help me
+  - looking for
+  - earnings
+  - lawsuit
+  - layoffs
+  - hiring
+  - store opening
+  - fragrance
+  - stock price
+  - quarterly results
+  - "re:\\bipo\\b"

@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Footwear Radar</title>
+<style>
+  :root {
+    --bg: #fafaf7; --card: #ffffff; --ink: #1c1c1a; --muted: #6b6b66; --line: #e4e3dc;
+    --accent: #1f3864;
+    --drop: #1d6fb8; --collab: #7a3db8; --sale: #b4531b; --outlet: #a07400; --review: #2a7a4b; --other: #6b6b66;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141413; --card: #1e1e1c; --ink: #ecebe5; --muted: #9a9a93; --line: #2f2f2c;
+      --accent: #8fb0e8;
+      --drop: #6db2f0; --collab: #b98ae8; --sale: #e89463; --outlet: #e0b84a; --review: #6ccb92; --other: #9a9a93;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 20px 16px 60px; }
+  h1 { font-size: 22px; margin: 0 0 2px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+  .chip { border: 1px solid var(--line); background: var(--card); color: var(--ink); padding: 6px 12px; border-radius: 999px; cursor: pointer; font: inherit; font-size: 13px; }
+  .chip[aria-pressed="true"] { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+  .tools { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+  .tools input, .tools select { flex: 1 1 200px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); font: inherit; }
+  .item { display: flex; gap: 12px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px; margin-bottom: 10px; }
+  .thumb { flex: 0 0 84px; height: 84px; border-radius: 8px; object-fit: cover; background: var(--line); }
+  .body { min-width: 0; }
+  .title { font-weight: 600; color: var(--ink); text-decoration: none; overflow-wrap: anywhere; }
+  .title:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 12.5px; margin-top: 4px; display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; }
+  .badge { font-size: 11.5px; font-weight: 600; padding: 1px 8px; border-radius: 999px; border: 1px solid currentColor; }
+  .b-Drop { color: var(--drop); } .b-Collab { color: var(--collab); } .b-Sale { color: var(--sale); }
+  .b-Outlet { color: var(--outlet); } .b-Review { color: var(--review); } .b-Other { color: var(--other); }
+  .sum { color: var(--muted); font-size: 13.5px; margin-top: 6px; overflow-wrap: anywhere; }
+  .empty, .note { color: var(--muted); padding: 24px 0; text-align: center; }
+  details { margin-top: 24px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; }
+  summary { cursor: pointer; font-weight: 600; }
+  details ul { margin: 10px 0 0; padding-left: 18px; color: var(--muted); font-size: 13.5px; }
+  details a { color: var(--accent); }
+  .bad { color: var(--sale); }
+  @media (max-width: 520px) { .thumb { flex-basis: 64px; height: 64px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Footwear Radar</h1>
+  <div class="sub" id="status">Loading…</div>
+
+  <div class="chips" id="chips"></div>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Search titles, sources, prices…" aria-label="Search">
+    <select id="src" aria-label="Source"><option value="">All sources</option></select>
+  </div>
+
+  <div id="list"></div>
+
+  <details>
+    <summary>Feeds for your automations</summary>
+    <ul id="feeds"></ul>
+  </details>
+  <details>
+    <summary id="healthSummary">Source status</summary>
+    <ul id="health"></ul>
+  </details>
+</div>
+
+<script>
+(function () {
+  var SIGNALS = ["Drop", "Collab", "Sale", "Outlet", "Review", "Other"];
+  var FEEDS = [["All items", "feed.xml"], ["Drops", "feed-drop.xml"], ["Collabs", "feed-collab.xml"],
+               ["Sales", "feed-sale.xml"], ["Outlets", "feed-outlet.xml"], ["Reviews", "feed-review.xml"],
+               ["Everything as JSON", "items.json"]];
+  var items = [], active = "All";
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+  function ago(iso) {
+    var s = (Date.now() - new Date(iso).getTime()) / 1000;
+    if (s < 3600) return Math.max(1, Math.round(s / 60)) + " min ago";
+    if (s < 86400) return Math.round(s / 3600) + " h ago";
+    return Math.round(s / 86400) + " d ago";
+  }
+  function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : null; }
+
+  function render() {
+    var q = document.getElementById("q").value.trim().toLowerCase();
+    var src = document.getElementById("src").value;
+    var list = document.getElementById("list");
+    list.textContent = "";
+    var shown = items.filter(function (i) {
+      if (active !== "All" && i.signals.indexOf(active) < 0) return false;
+      if (src && i.source !== src) return false;
+      if (!q) return true;
+      return (i.title + " " + i.source + " " + (i.prices || []).join(" ") + " " + i.summary).toLowerCase().indexOf(q) >= 0;
+    });
+    if (!shown.length) { list.appendChild(el("div", "empty", "Nothing matches yet.")); return; }
+    shown.slice(0, 200).forEach(function (i) {
+      var row = el("div", "item");
+      var img = safeUrl(i.image);
+      if (img) {
+        var t = el("img", "thumb"); t.src = img; t.loading = "lazy"; t.alt = "";
+        t.referrerPolicy = "no-referrer"; t.onerror = function () { t.remove(); };
+        row.appendChild(t);
+      }
+      var body = el("div", "body");
+      var a = el("a", "title", i.title); a.href = safeUrl(i.link) || "#"; a.target = "_blank"; a.rel = "noopener noreferrer";
+      body.appendChild(a);
+      var meta = el("div", "meta");
+      i.signals.forEach(function (s) { meta.appendChild(el("span", "badge b-" + s, s)); });
+      meta.appendChild(el("span", null, i.source));
+      meta.appendChild(el("span", null, ago(i.published)));
+      if (i.prices && i.prices.length) meta.appendChild(el("span", null, i.prices.join(" · ")));
+      if (i.coverage > 1) meta.appendChild(el("span", null, "+" + (i.coverage - 1) + " other source" + (i.coverage > 2 ? "s" : "")));
+      body.appendChild(meta);
+      if (i.summary) body.appendChild(el("div", "sum", i.summary.length > 220 ? i.summary.slice(0, 220) + "…" : i.summary));
+      row.appendChild(body);
+      list.appendChild(row);
+    });
+  }
+
+  function buildChips() {
+    var box = document.getElementById("chips");
+    ["All"].concat(SIGNALS).forEach(function (name) {
+      var n = name === "All" ? items.length : items.filter(function (i) { return i.signals.indexOf(name) >= 0; }).length;
+      if (name !== "All" && !n) return;
+      var b = el("button", "chip", name + " (" + n + ")");
+      b.type = "button"; b.setAttribute("aria-pressed", name === active ? "true" : "false");
+      b.onclick = function () {
+        active = name;
+        Array.prototype.forEach.call(box.children, function (c) { c.setAttribute("aria-pressed", "false"); });
+        b.setAttribute("aria-pressed", "true");
+        render();
+      };
+      box.appendChild(b);
+    });
+  }
+
+  function buildFeeds() {
+    var ul = document.getElementById("feeds");
+    FEEDS.forEach(function (f) {
+      var li = el("li"), a = el("a", null, f[0]);
+      a.href = f[1];
+      li.appendChild(a);
+      li.appendChild(document.createTextNode("  " + new URL(f[1], location.href).href));
+      ul.appendChild(li);
+    });
+  }
+
+  function get(path) { return fetch(path, { cache: "no-store" }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
+
+  buildFeeds();
+  get("items.json").then(function (data) {
+    items = data.items || [];
+    document.getElementById("status").textContent =
+      items.length + " items · updated " + ago(data.updated_at) + " · refreshed about every 30 minutes";
+    var sources = Array.from(new Set(items.map(function (i) { return i.source; }))).sort();
+    var sel = document.getElementById("src");
+    sources.forEach(function (s) { var o = el("option", null, s); o.value = s; sel.appendChild(o); });
+    buildChips(); render();
+    document.getElementById("q").addEventListener("input", render);
+    sel.addEventListener("change", render);
+  }).catch(function () {
+    document.getElementById("status").textContent = "No data yet. Run the workflow once from the Actions tab.";
+    document.getElementById("list").appendChild(el("div", "empty", "Nothing to show yet."));
+  });
+
+  get("health.json").then(function (h) {
+    var rows = h.sources || [], bad = rows.filter(function (r) { return !r.ok; });
+    document.getElementById("healthSummary").textContent =
+      "Source status: " + (rows.length - bad.length) + " working, " + bad.length + " failing";
+    var ul = document.getElementById("health");
+    rows.slice().sort(function (a, b) { return a.ok - b.ok; }).forEach(function (r) {
+      var li = el("li", r.ok ? null : "bad");
+      li.textContent = r.name + " (tier " + r.tier + "): " +
+        (r.ok ? r.entries + " entries, " + r.kept + " kept" : "failed: " + (r.error || "unknown error"));
+      ul.appendChild(li);
+    });
+  }).catch(function () {});
+})();
+</script>
+</body>
+</html>
