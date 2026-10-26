@@ -1,0 +1,213 @@
+{
+ "checked_at": "2026-10-26T20:32:34.438499+00:00",
+ "sources": [
+  {
+   "name": "Sneaker News",
+   "tier": "A",
+   "ok": true,
+   "entries": 7,
+   "kept": 7,
+   "error": ""
+  },
+  {
+   "name": "Nice Kicks",
+   "tier": "A",
+   "ok": true,
+   "entries": 10,
+   "kept": 10,
+   "error": ""
+  },
+  {
+   "name": "Sneaker Bar Detroit",
+   "tier": "A",
+   "ok": true,
+   "entries": 25,
+   "kept": 25,
+   "error": ""
+  },
+  {
+   "name": "Hypebeast Footwear",
+   "tier": "A",
+   "ok": true,
+   "entries": 20,
+   "kept": 13,
+   "error": ""
+  },
+  {
+   "name": "Sneaker Freaker",
+   "tier": "A",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "404 Client Error: Not Found for url: https://www.sneakerfreaker.com/*"
+  },
+  {
+   "name": "WearTesters",
+   "tier": "A",
+   "ok": true,
+   "entries": 18,
+   "kept": 4,
+   "error": ""
+  },
+  {
+   "name": "Slickdeals: sneakers",
+   "tier": "A",
+   "ok": true,
+   "entries": 25,
+   "kept": 22,
+   "error": ""
+  },
+  {
+   "name": "r/SneakerDeals",
+   "tier": "A",
+   "ok": true,
+   "entries": 25,
+   "kept": 25,
+   "error": ""
+  },
+  {
+   "name": "r/midsoledeals",
+   "tier": "A",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/midsoledeals/new/.rss"
+  },
+  {
+   "name": "r/Sneakers",
+   "tier": "A",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/Sneakers/new/.rss"
+  },
+  {
+   "name": "Kicks On Fire",
+   "tier": "B",
+   "ok": true,
+   "entries": 100,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Sneaker Files",
+   "tier": "B",
+   "ok": true,
+   "entries": 7,
+   "kept": 7,
+   "error": ""
+  },
+  {
+   "name": "Sneaker Report",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "HTTPSConnectionPool(host='sneakerreport.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICAT"
+  },
+  {
+   "name": "Highsnobiety",
+   "tier": "B",
+   "ok": true,
+   "entries": 12,
+   "kept": 2,
+   "error": ""
+  },
+  {
+   "name": "Believe in the Run",
+   "tier": "B",
+   "ok": true,
+   "entries": 12,
+   "kept": 12,
+   "error": ""
+  },
+  {
+   "name": "Heddels",
+   "tier": "B",
+   "ok": true,
+   "entries": 10,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "r/frugalmalefashion",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/frugalmalefashion/new/.rss"
+  },
+  {
+   "name": "r/FrugalFemaleFashion",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/FrugalFemaleFashion/new/.rss"
+  },
+  {
+   "name": "r/RunningShoeGeeks",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/RunningShoeGeeks/new/.rss"
+  },
+  {
+   "name": "r/goodyearwelt",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/goodyearwelt/new/.rss"
+  },
+  {
+   "name": "r/streetwear",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/streetwear/new/.rss"
+  },
+  {
+   "name": "Kith",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "404 Client Error: Not Found for url: https://kith.com/collections/all.atom"
+  },
+  {
+   "name": "Concepts",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "404 Client Error: Not Found for url: https://cncpts.com/collections/all.atom"
+  },
+  {
+   "name": "Bodega",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "404 Client Error: Not Found for url: https://bdgastore.com/collections/all.atom"
+  },
+  {
+   "name": "Undefeated",
+   "tier": "B",
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "404 Client Error: Not Found for url: https://undefeated.com/collections/all.atom"
+  },
+  {
+   "name": "A Ma Maniére",
+   "tier": "B",
+   "ok": true,
+   "entries": 25,
+   "kept": 10,
+   "error": ""
+  }
+ ]
+}
