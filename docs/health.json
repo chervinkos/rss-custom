@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-28T11:33:11.009310+00:00",
+ "checked_at": "2026-10-28T17:18:32.631753+00:00",
  "sources": [
   {
    "name": "Sneaker News",
@@ -124,10 +124,10 @@
   {
    "name": "Heddels",
    "tier": "B",
-   "ok": false,
-   "entries": 0,
+   "ok": true,
+   "entries": 10,
    "kept": 0,
-   "error": "415 Client Error: Unsupported Media Type for url: https://www.heddels.com/feed/"
+   "error": ""
   },
   {
    "name": "r/frugalmalefashion",
