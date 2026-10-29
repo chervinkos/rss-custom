@@ -5,8 +5,18 @@
 <link>https://chervinkos.github.io/rss-custom</link>
 <description>Only items labelled Review</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 12:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 12:00:00 GMT</lastBuildDate>
 <atom:link href="https://chervinkos.github.io/rss-custom/feed-review.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[Review] Deming Eastsider Review: Recovery, but make it classy</title>
+<link>https://believeintherun.com/shoe-reviews/deming-eastsider-review/</link>
+<guid isPermaLink="false">165116d7f0ebcf72</guid>
+<pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+<source url="https://believeintherun.com/">Believe in the Run</source>
+<category>Review</category>
+<description>The post Deming Eastsider Review: Recovery, but make it classy appeared first on Believe in the Run . Source: Believe in the Run</description>
+<enclosure url="https://believeintherun.com/media/2026-10-27/9ab3623e-15a4-46c9-9524-144042ccb24b.jpg" length="0" type="image/jpeg"/>
+</item>
 <item>
 <title>[Review] Fila wants back into running, but is this the shoe to get it there?</title>
 <link>https://believeintherun.com/shoe-reviews/fila-speedtempo-plus-review/</link>
@@ -185,26 +195,6 @@
 <category>Review</category>
 <description>The post Best Brooks Running Shoes Right Now appeared first on Believe in the Run . Source: Believe in the Run</description>
 <enclosure url="https://believeintherun.com/media/wp/wp-content/uploads/2020/11/best-brooks.jpg" length="0" type="image/jpeg"/>
-</item>
-<item>
-<title>[Review] Marathons are (slowly) ditching cups, and I couldn't be happier</title>
-<link>https://believeintherun.com/articles/chicago-new-york-marathon-culligan-water</link>
-<guid isPermaLink="false">3786a9129107311e</guid>
-<pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
-<source url="https://believeintherun.com/">Believe in the Run</source>
-<category>Review</category>
-<description>The post Marathons are (slowly) ditching cups, and I couldn't be happier appeared first on Believe in the Run . Source: Believe in the Run</description>
-<enclosure url="https://believeintherun.com/media/2026-10-14/b4c0037e-8ad0-44a3-8c08-3d073f32c73f.jpg" length="0" type="image/jpeg"/>
-</item>
-<item>
-<title>[Review] This max-stacked road shoe is Craft at its very best</title>
-<link>https://believeintherun.com/shoe-reviews/craft-atmosfar-1-review/</link>
-<guid isPermaLink="false">f9a19d6d42986053</guid>
-<pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
-<source url="https://believeintherun.com/">Believe in the Run</source>
-<category>Review</category>
-<description>The post This max-stacked road shoe is Craft at its very best appeared first on Believe in the Run . Source: Believe in the Run</description>
-<enclosure url="https://believeintherun.com/media/2026-10-13/b016b0f1-c002-49a3-a94b-c28fceb2045f.jpg" length="0" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
