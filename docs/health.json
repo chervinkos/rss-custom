@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-30T22:54:51.265758+00:00",
+ "checked_at": "2026-10-31T02:14:11.769939+00:00",
  "sources": [
   {
    "name": "Sneaker News",
@@ -62,7 +62,7 @@
    "tier": "A",
    "ok": true,
    "entries": 25,
-   "kept": 24,
+   "kept": 25,
    "error": ""
   },
   {
