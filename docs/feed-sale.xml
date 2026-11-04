@@ -5,8 +5,18 @@
 <link>https://chervinkos.github.io/rss-custom</link>
 <description>Only items labelled Sale</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 16:12:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 04:48:54 GMT</lastBuildDate>
 <atom:link href="https://chervinkos.github.io/rss-custom/feed-sale.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[Sale] Cole Haan Men's Grand Crosscourt Daily Elastic Lace Slip-On Sneakers (Birch) $49.99 + Free Shipping</title>
+<link>https://slickdeals.net/f/20253096-cole-haan-men-s-grand-crosscourt-daily-elastic-lace-slip-on-sneakers-birch-49-99-free-shipping?utm_source=rss&amp;utm_content=def&amp;utm_medium=RSS2</link>
+<guid isPermaLink="false">1744d5142d467e56</guid>
+<pubDate>Wed, 04 Nov 2026 04:48:54 GMT</pubDate>
+<source url="https://slickdeals.net/newsearch.php?q=sneakers">Slickdeals: sneakers</source>
+<category>Sale</category>
+<description>Men's Wearhouse [menswearhouse.com] has *Cole Haan Men's Grand Crosscourt Daily Elastic Lace Slip-On Sneakers (Birch)* on sale for *$49.99. *Shipping is free for Members (free to join). Product... Prices: $49.99. Source: Slickdeals: sneakers</description>
+<enclosure url="https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22205697.thumb" length="0" type="image/jpeg"/>
+</item>
 <item>
 <title>[Sale] New Balance 471 Shoes (Rosewood/Fire Cracker) $40.97 + Free Shipping on $49</title>
 <link>https://slickdeals.net/f/20250042-new-balance-471-shoes-rosewood-fire-cracker-40-97-free-shipping-on-49?utm_source=rss&amp;utm_content=def&amp;utm_medium=RSS2</link>
@@ -1133,35 +1143,6 @@
 <source url="https://www.reddit.com/r/SneakerDeals/">r/SneakerDeals</source>
 <category>Sale</category>
 <description>submitted by /u/slacikasac [link] [comments] Prices: $59.97. Source: r/SneakerDeals</description>
-</item>
-<item>
-<title>[Sale] adidas men Advantage Shoes with code 'OCTOBER40' for $19.20 (Reg. $75). Shipping is free. | eBay #ad</title>
-<link>https://www.reddit.com/r/SneakerDeals/comments/1xbbujg/adidas_men_advantage_shoes_with_code_october40/</link>
-<guid isPermaLink="false">6ed7e10730861ad8</guid>
-<pubDate>Wed, 21 Oct 2026 02:56:18 GMT</pubDate>
-<source url="https://www.reddit.com/r/SneakerDeals/">r/SneakerDeals</source>
-<category>Sale</category>
-<description>submitted by /u/slacikasac [link] [comments] Prices: $19.20, $75. Source: r/SneakerDeals</description>
-<enclosure url="https://external-preview.redd.it/USD5G1_S04hliEAvLVeharWeYie2kWFU0u4q0ZzMmkI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ac2c0a9a2f4fc4ac1c993954fccf5a8aaac15dea" length="0" type="image/jpeg"/>
-</item>
-<item>
-<title>[Sale] [Joe's New Balance] select Men's/Women's New Balance Shoes (various styles/sizes) on sale 2 for $100 (discount will automatically apply in the cart). Shipping is free on orders $99+.</title>
-<link>https://www.reddit.com/r/SneakerDeals/comments/1xbbsr9/joes_new_balance_select_menswomens_new_balance/</link>
-<guid isPermaLink="false">71313ec2d3ecc1f3</guid>
-<pubDate>Wed, 21 Oct 2026 02:53:47 GMT</pubDate>
-<source url="https://www.reddit.com/r/SneakerDeals/">r/SneakerDeals</source>
-<category>Sale</category>
-<description>submitted by /u/slacikasac [link] [comments] Prices: $100, $99. Source: r/SneakerDeals</description>
-</item>
-<item>
-<title>[Sale] adidas men Daily 4.0 Shoes with code 'OCTOBER40' for $23.40 (Reg. $65). Shipping is free. | eBay #ad</title>
-<link>https://www.reddit.com/r/SneakerDeals/comments/1xbbqzg/adidas_men_daily_40_shoes_with_code_october40_for/</link>
-<guid isPermaLink="false">d0515fa8e44f38e7</guid>
-<pubDate>Wed, 21 Oct 2026 02:51:19 GMT</pubDate>
-<source url="https://www.reddit.com/r/SneakerDeals/">r/SneakerDeals</source>
-<category>Sale</category>
-<description>submitted by /u/slacikasac [link] [comments] Prices: $23.40, $65. Source: r/SneakerDeals</description>
-<enclosure url="https://external-preview.redd.it/vUSRW5HPlQik0HxDsrpRlSwmCDzOmEk0iFDcGIvqwI4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4ecc275046b3157e3a55af632b441c1969fedd34" length="0" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
