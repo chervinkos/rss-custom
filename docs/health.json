@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-03T19:24:53.330165+00:00",
+ "checked_at": "2026-11-04T00:10:35.333023+00:00",
  "sources": [
   {
    "name": "Sneaker News",
@@ -46,7 +46,7 @@
    "tier": "A",
    "ok": true,
    "entries": 18,
-   "kept": 7,
+   "kept": 8,
    "error": ""
   },
   {
@@ -62,7 +62,7 @@
    "tier": "A",
    "ok": true,
    "entries": 25,
-   "kept": 25,
+   "kept": 24,
    "error": ""
   },
   {
@@ -109,8 +109,8 @@
    "name": "Highsnobiety",
    "tier": "B",
    "ok": true,
-   "entries": 13,
-   "kept": 5,
+   "entries": 11,
+   "kept": 4,
    "error": ""
   },
   {
@@ -206,7 +206,7 @@
    "tier": "B",
    "ok": true,
    "entries": 25,
-   "kept": 1,
+   "kept": 2,
    "error": ""
   }
  ]
