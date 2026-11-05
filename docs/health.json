@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-04T21:27:26.942847+00:00",
+ "checked_at": "2026-11-05T01:43:45.659775+00:00",
  "sources": [
   {
    "name": "Sneaker News",
@@ -109,8 +109,8 @@
    "name": "Highsnobiety",
    "tier": "B",
    "ok": true,
-   "entries": 11,
-   "kept": 3,
+   "entries": 8,
+   "kept": 1,
    "error": ""
   },
   {
