@@ -5,8 +5,18 @@
 <link>https://chervinkos.github.io/rss-custom</link>
 <description>Only items labelled Review</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 23:35:58 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:00:00 GMT</lastBuildDate>
 <atom:link href="https://chervinkos.github.io/rss-custom/feed-review.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[Review] We're ready for winter running, and this is the Janji gear we're wearing</title>
+<link>https://believeintherun.com/shoe-reviews/janji-winter-2026-trail-running-gear/</link>
+<guid isPermaLink="false">010c81464df5c7b6</guid>
+<pubDate>Wed, 11 Nov 2026 13:00:00 GMT</pubDate>
+<source url="https://believeintherun.com/">Believe in the Run</source>
+<category>Review</category>
+<description>The post We're ready for winter running, and this is the Janji gear we're wearing appeared first on Believe in the Run . Source: Believe in the Run</description>
+<enclosure url="https://believeintherun.com/media/2026-11-10/02fa68e6-d743-44a1-abed-c388d4dcc651.jpg" length="0" type="image/jpeg"/>
+</item>
 <item>
 <title>[Drop] Reebok Question Recoded Review</title>
 <link>https://weartesters.com/reebok-question-recoded-review/</link>
@@ -354,15 +364,6 @@
 <category>Drop</category>
 <category>Review</category>
 <description>Originally released back in 2005 as a Retro+ colorway, the Air Jordan 14 Forest Green is finally back… Source: WearTesters</description>
-</item>
-<item>
-<title>[Review] Air Jordan 4014 Ferrari Review</title>
-<link>https://weartesters.com/air-jordan-4014-ferrari-review/</link>
-<guid isPermaLink="false">a7806c904b34ec47</guid>
-<pubDate>Fri, 30 Oct 2026 17:13:48 GMT</pubDate>
-<source url="https://weartesters.com/">WearTesters</source>
-<category>Review</category>
-<description>In addition to being a solid performer on court, the Air Jordan 40 has served as a blank… Source: WearTesters</description>
 </item>
 </channel>
 </rss>
