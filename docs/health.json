@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-13T06:23:03.594988+00:00",
+ "checked_at": "2026-11-13T14:50:51.410199+00:00",
  "sources": [
   {
    "name": "Sneaker News",
@@ -14,7 +14,7 @@
    "tier": "A",
    "ok": true,
    "entries": 10,
-   "kept": 8,
+   "kept": 7,
    "error": ""
   },
   {
@@ -30,7 +30,7 @@
    "tier": "A",
    "ok": true,
    "entries": 20,
-   "kept": 16,
+   "kept": 15,
    "error": ""
   },
   {
@@ -54,7 +54,7 @@
    "tier": "A",
    "ok": true,
    "entries": 25,
-   "kept": 23,
+   "kept": 24,
    "error": ""
   },
   {
@@ -84,10 +84,10 @@
   {
    "name": "Kicks On Fire",
    "tier": "B",
-   "ok": false,
-   "entries": 0,
+   "ok": true,
+   "entries": 100,
    "kept": 0,
-   "error": "HTTPSConnectionPool(host='www.kicksonfire.com', port=443): Read timed out. (read timeout=25)"
+   "error": ""
   },
   {
    "name": "Sneaker Files",
