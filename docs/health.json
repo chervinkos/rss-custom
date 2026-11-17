@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-17T09:00:09.795040+00:00",
+ "checked_at": "2026-11-17T18:24:30.465835+00:00",
  "sources": [
   {
    "name": "Sneaker News",
@@ -14,7 +14,7 @@
    "tier": "A",
    "ok": true,
    "entries": 10,
-   "kept": 8,
+   "kept": 7,
    "error": ""
   },
   {
@@ -30,7 +30,7 @@
    "tier": "A",
    "ok": true,
    "entries": 20,
-   "kept": 16,
+   "kept": 15,
    "error": ""
   },
   {
@@ -60,10 +60,10 @@
   {
    "name": "r/SneakerDeals",
    "tier": "A",
-   "ok": true,
-   "entries": 25,
-   "kept": 25,
-   "error": ""
+   "ok": false,
+   "entries": 0,
+   "kept": 0,
+   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/SneakerDeals/new/.rss"
   },
   {
    "name": "r/midsoledeals",
@@ -109,7 +109,7 @@
    "name": "Highsnobiety",
    "tier": "B",
    "ok": true,
-   "entries": 13,
+   "entries": 11,
    "kept": 6,
    "error": ""
   },
@@ -124,10 +124,10 @@
   {
    "name": "Heddels",
    "tier": "B",
-   "ok": false,
-   "entries": 0,
+   "ok": true,
+   "entries": 10,
    "kept": 0,
-   "error": "415 Client Error: Unsupported Media Type for url: https://www.heddels.com/feed/"
+   "error": ""
   },
   {
    "name": "r/frugalmalefashion",
@@ -206,7 +206,7 @@
    "tier": "B",
    "ok": true,
    "entries": 25,
-   "kept": 9,
+   "kept": 11,
    "error": ""
   }
  ]
