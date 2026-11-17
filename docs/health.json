@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-17T00:59:59.125264+00:00",
+ "checked_at": "2026-11-17T09:00:09.795040+00:00",
  "sources": [
   {
    "name": "Sneaker News",
@@ -30,7 +30,7 @@
    "tier": "A",
    "ok": true,
    "entries": 20,
-   "kept": 15,
+   "kept": 16,
    "error": ""
   },
   {
@@ -46,7 +46,7 @@
    "tier": "A",
    "ok": true,
    "entries": 18,
-   "kept": 4,
+   "kept": 5,
    "error": ""
   },
   {
@@ -124,10 +124,10 @@
   {
    "name": "Heddels",
    "tier": "B",
-   "ok": true,
-   "entries": 10,
+   "ok": false,
+   "entries": 0,
    "kept": 0,
-   "error": ""
+   "error": "415 Client Error: Unsupported Media Type for url: https://www.heddels.com/feed/"
   },
   {
    "name": "r/frugalmalefashion",
