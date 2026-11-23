@@ -1,7 +1,832 @@
 {
- "updated_at": "2026-11-23T09:40:22.518274+00:00",
+ "updated_at": "2026-11-23T21:58:52.560155+00:00",
  "count": 600,
  "items": [
+  {
+   "id": "718a56fc41251262",
+   "title": "Nike’s Slim Suede Sneaker Proves It's the Sibling With Good Taste",
+   "link": "https://www.highsnobiety.com/p/nike-sprint-sister-flax/",
+   "source": "Highsnobiety",
+   "site": "https://www.highsnobiety.com/",
+   "tier": "B",
+   "published": "2026-11-23T21:48:27+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop"
+   ],
+   "summary": "Nike's Spring Sister sneaker continues its tasteful run with a smooth suede \"Flax\" release.",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "92d556174e9765f1",
+   "title": "$12 WALMART Athletic Works Men's Front Runner Wide Width Sneakers, 4E Black or White all sizes 7-13 at link",
+   "link": "https://slickdeals.net/f/20380893-12-walmart-athletic-works-men-s-front-runner-wide-width-sneakers-4e-black-or-white-all-sizes-7-13-at-link?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T21:46:29+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "https://www.walmart.com/ip/Athlet...classType=",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22549230.thumb",
+   "prices": [
+    "$12"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "69b32098073f3fb2",
+   "title": "$19 Walmart Avia Men's 5000 Running Sneakers, Wide Width Available various colors, mens 8-13",
+   "link": "https://slickdeals.net/f/20380872-19-walmart-avia-men-s-5000-running-sneakers-wide-width-available-various-colors-mens-8-13?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T21:44:10+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "https://www.walmart.com/ip/Avia-M...5058471071",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22549188.thumb",
+   "prices": [
+    "$19"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "ffefdb9f7a999be3",
+   "title": "All 8 Nike NBA Specter Edition Jerseys, From Detroit To LA",
+   "link": "https://sneakerbardetroit.com/nike-nba-specter-jerseys/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T21:36:54+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Other"
+   ],
+   "summary": "Fans of the Detroit Pistons will recognize the teal on the new NBA Specter Edition jersey for the team. Nike brought back color for an eight team collection focused on a ghost theme, while the Atlanta Hawks went back to an old uniform of their own for their blue and green. All eight jerseys are […] The post All 8 Nike NBA Specter Edition Jerseys, From Detroit To LA appeared first on Sneaker Bar De",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "be5297b769d70ebf",
+   "title": "Invincible x Madness x ASICS GEL-Kayano 12.1 “Shadow Fragment” First Look",
+   "link": "https://sneakerbardetroit.com/invincible-madness-asics-gel-kayano-12-1-shadow-fragments/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T21:10:24+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Collab"
+   ],
+   "summary": "Invincible and Madness are following up their “Vanilla” ASICS GEL-Kayano 12.1 with an all-black colorway called “Shadow Fragment.” The first photo shows the shoes from above, giving us a clear look at the oversized ASICS logo that rises off each black canvas toe box. The two shops, Invincible in Taiwan and Madness in Hong Kong, […] The post Invincible x Madness x ASICS GEL-Kayano 12.1 “Shadow Frag",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "180927c948929474",
+   "title": "Jordan Brand’s Air Jordan 4 “Bred” Seeding Kit Takes Us Back To “The Shot”",
+   "link": "https://sneakernews.com/2026/11/23/air-jordan-4-bred/",
+   "source": "Sneaker News",
+   "site": "https://sneakernews.com/",
+   "tier": "A",
+   "published": "2026-11-23T21:00:53+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Other"
+   ],
+   "summary": "The Air Jordan 4 “Bred” is returning on November 27th, and Jordan Brand has put together an incredible piece of nostalgia to celebrate one of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Brand's Air Jordan 4 \"Bred\" Seeding Kit Takes Us Back To \"The Shot\" appeared first on Sneaker News . The post Jordan Brand’s Air Jordan 4 “Bred” Seeding Kit Takes Us Back",
+   "image": "https://sneakernews.com/wp-content/uploads/2026/11/air-jordan-4-bred-promo-kit-8.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "e938cde8c69b23a6",
+   "title": "Playa Society’s *Other* Nike Hoops Sneaker Is Even Sweeter",
+   "link": "https://www.highsnobiety.com/p/playa-society-nike-atwo-dark-russet/",
+   "source": "Highsnobiety",
+   "site": "https://www.highsnobiety.com/",
+   "tier": "B",
+   "published": "2026-11-23T20:58:50+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Collab"
+   ],
+   "summary": "Playa Society's Nike A'Two sneaker collab appears in a chocolate-brown colorway dubbed \"Dark Russet.\" Here's everything on the sweet release.",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "2d615af117e53bad",
+   "title": "Jae Tips x Nike Air Bakin Low Savior “Purple Stardust” Detailed Look",
+   "link": "https://sneakerbardetroit.com/jae-tips-nike-air-bakin-low-purple-stardust/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T20:30:47+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Collab"
+   ],
+   "summary": "Jae Tips first showed off his Nike Air Bakin Low in “Purple Stardust” at ComplexCon 2026. The Bronx designer has two colorways planned for Spring 2027, with a “Chile Red” pair joining this one when the collaboration drops. Sporting a “Black/Blue Beyond-Purple Stardust” colorway, this NEW collaboration showcases a vibrant suede upper, nubuck overlays, bright […] The post Jae Tips x Nike Air Bakin L",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "4ce7d8a25a004ebd",
+   "title": "Nike’s NBA Specter Edition Jerseys Drop November 30th",
+   "link": "https://sneakernews.com/2026/11/23/nike-nba-specter-jerseys/",
+   "source": "Sneaker News",
+   "site": "https://sneakernews.com/",
+   "tier": "A",
+   "published": "2026-11-23T20:30:19+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop"
+   ],
+   "summary": "Now in its 10th season as the official on-court jersey maker of the NBA, Nike is set to deliver its boldest collection yet with the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike's NBA Specter Edition Jerseys Drop November 30th appeared first on Sneaker News . The post Nike’s NBA Specter Edition Jerseys Drop November 30th appeared first on Sneaker News .",
+   "image": "https://sneakernews.com/wp-content/uploads/2026/11/nike-nba-specter-jerseys-1.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "ca408217985abf13",
+   "title": "This Ain’t Your Normal Nike Sneaker-Boot — It’s Better",
+   "link": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foam-black/",
+   "source": "Highsnobiety",
+   "site": "https://www.highsnobiety.com/",
+   "tier": "B",
+   "published": "2026-11-23T20:22:02+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Sale"
+   ],
+   "summary": "Nike's Air Max Goadome Low Foam sneaker-boot gets a stealthy all-black makeover. It's easily the cleanest release yet.",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "714e51bd6687b3f4",
+   "title": "Skechers Women's Summits Sneakers (Triple Black, Charcoal Pink, Wide, Sizes: 6-10) $38.99 + Free Shipping",
+   "link": "https://slickdeals.net/f/20380269-skechers-women-s-summits-sneakers-triple-black-charcoal-pink-wide-sizes-6-10-38-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T20:15:51+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Kohl's [kohls.com] has *Skechers Women's Summits Sneakers* (Triple Black, Charcoal Pink, Wide, Sizes: 6-10) on sale for *$38.99*. *Shipping is free.* Note: More Skechers Shoes on sale here...",
+   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22547784.thumb",
+   "prices": [
+    "$38.99"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "8b1543347d643335",
+   "title": "The Best Running Shoes of the Year (For Bigger Runners) | Best in Gear (BIG) Awards 2026",
+   "link": "https://believeintherun.com/videos/the-best-running-shoes-of-the-year-for-bigger-runners-best-in-gear-big-awards-20/",
+   "source": "Believe in the Run",
+   "site": "https://believeintherun.com/",
+   "tier": "B",
+   "published": "2026-11-23T20:07:37+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Review"
+   ],
+   "summary": "The post The Best Running Shoes of the Year (For Bigger Runners) | Best in Gear (BIG) Awards 2026 appeared first on Believe in the Run .",
+   "image": "https://believeintherun.com/media/2026-11-23/adfd9989-9b7f-4b92-a1c8-3442fff230c7.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "f2624e80ce0ed431",
+   "title": "The Best Running Shoes of the Year | Best in Gear (BIG) Awards 2026",
+   "link": "https://believeintherun.com/videos/the-best-running-shoes-of-the-year-best-in-gear-big-awards-2026/",
+   "source": "Believe in the Run",
+   "site": "https://believeintherun.com/",
+   "tier": "B",
+   "published": "2026-11-23T20:05:14+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Review"
+   ],
+   "summary": "The post The Best Running Shoes of the Year | Best in Gear (BIG) Awards 2026 appeared first on Believe in the Run .",
+   "image": "https://believeintherun.com/media/2026-11-23/aea37022-79a1-4671-b977-8c15eb6ca6b0.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "d81d75d2ff487a49",
+   "title": "Invincible Teases ASICS GEL-Kayano 12.1 “Shadow Fragments” With Madness",
+   "link": "https://sneakernews.com/2026/11/23/invincible-madness-asics-gel-kayano-12-1-shadow-fragments/",
+   "source": "Sneaker News",
+   "site": "https://sneakernews.com/",
+   "tier": "A",
+   "published": "2026-11-23T20:00:56+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Collab"
+   ],
+   "summary": "Taiwan’s Invincible and Hong Kong’s Madness, two sneaker boutiques with strong collab chops in their own right, are reconvening with ASICS for a three-way collab... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Invincible Teases ASICS GEL-Kayano 12.1 “Shadow Fragments” With Madness appeared first on Sneaker News . The post Invincible Teases ASICS GEL-Kayano 12.1 “Sh",
+   "image": "https://sneakernews.com/wp-content/uploads/2026/11/invincible-madness-asics-gel-kayano-12-1-shadow-fragments-1.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "8869b78cc9a0a42c",
+   "title": "361 Mega3 Pro | Video Review",
+   "link": "https://believeintherun.com/videos/361-mega3-pro-video-review/",
+   "source": "Believe in the Run",
+   "site": "https://believeintherun.com/",
+   "tier": "B",
+   "published": "2026-11-23T19:45:24+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Review"
+   ],
+   "summary": "The post 361 Mega3 Pro | Video Review appeared first on Believe in the Run .",
+   "image": "https://believeintherun.com/media/2026-11-23/12bbd70a-cab5-439d-9634-dd768960ef1f.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "3ccd23aa7f349541",
+   "title": "Supreme x The North Face “Bones” Collection Drops November 27th",
+   "link": "https://sneakerbardetroit.com/supreme-the-north-face-bones-collection/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T19:32:06+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Collab"
+   ],
+   "summary": "Supreme put its Bones graphic on the Nuptse puffer and carried it down the legs of the Mountain Pant for its first collection with The North Face in two years. The matching Mountain Jacket completes the set. If the bones look familiar, Supreme has used the artwork on earlier collaborations with Hanes and Vanson Leathers. […] The post Supreme x The North Face “Bones” Collection Drops November 27th ",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "46f737589ba1a18e",
+   "title": "DOCKERS Men's Sanderson Dark Tan 11.5 Medium $34.20 - Amazon",
+   "link": "https://slickdeals.net/f/20379786-dockers-men-s-sanderson-dark-tan-11-5-medium-34-20-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T19:04:19+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Amazon [amazon.com] has *11.5 Medium DOCKERS Sanderson Sneakers (Dark Tan)* on sale for *$34.20*. Shipping is free w/ Prime or on orders of $35+. This item is shipped and sold by Amazon. ...",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22546590.thumb",
+   "prices": [
+    "$34.20",
+    "$35"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "53ba2547ba123c04",
+   "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
+   "link": "https://www.nicekicks.com/michael-jordans-4-best-moments-in-the-air-jordan-4/",
+   "source": "Nice Kicks",
+   "site": "https://www.nicekicks.com/",
+   "tier": "A",
+   "published": "2026-11-23T18:59:27+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Other"
+   ],
+   "summary": "Some sneakers are remembered for their design. Others are remembered for the moments that made them legendary. The Air Jordan 4 has both, but… The post Michael Jordan’s 4 Best Moments in the Air Jordan 4 appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/imgi_1_air-jordan-4-og-e1794858312643.jpeg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "041d9e0eb068b32e",
+   "title": "Nike Swooshfly | Video Review",
+   "link": "https://believeintherun.com/videos/nike-swooshfly-video-review/",
+   "source": "Believe in the Run",
+   "site": "https://believeintherun.com/",
+   "tier": "B",
+   "published": "2026-11-23T18:39:27+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Review"
+   ],
+   "summary": "The post Nike Swooshfly | Video Review appeared first on Believe in the Run .",
+   "image": "https://believeintherun.com/media/2026-11-23/e2d196a7-27c5-4545-899d-95d4f54705ac.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "d1e4134901c0a964",
+   "title": "Nike Gyakusou Returns With The Alphafly 4 And Vomero Plus",
+   "link": "https://sneakerbardetroit.com/nike-gyakusou-vomero-plus-alphafly/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T18:30:25+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop"
+   ],
+   "summary": "Jun Takahashi put Gyakusou on hiatus five years ago, but he now has two new Nike running shoes on European release calendars. On race day, Jun Takahashi, founder of Undercover and creator of Gyakusou with Nike in 2010, wears the Alphafly 4 and Vomero Plus for everyday training. The collection also contains jackets, vests, pants […] The post Nike Gyakusou Returns With The Alphafly 4 And Vomero Plus",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "763d78cf40905dad",
+   "title": "Tyler, The Creator And Converse Are Having A Massive Archive Sale",
+   "link": "https://sneakernews.com/2026/11/23/tyler-the-creator-converse-golf-le-fleur-archive-sale/",
+   "source": "Sneaker News",
+   "site": "https://sneakernews.com/",
+   "tier": "A",
+   "published": "2026-11-23T18:30:11+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Sale"
+   ],
+   "summary": "Tyler, The Creator has spent the past year and change curating his 1908 line for Converse, a celebration of the brand’s archives through rejuvenated releases... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Tyler, The Creator And Converse Are Having A Massive Archive Sale appeared first on Sneaker News . The post Tyler, The Creator And Converse Are Having A Massive ",
+   "image": "https://sneakernews.com/wp-content/uploads/2026/11/tyler-the-creator-converse-archive-sale-bronco-boot-1.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "ecf87bd9348f238d",
+   "title": "A Ma Maniere Just Dropped Their Nike Air Force 1 Low Collection",
+   "link": "https://sneakerbardetroit.com/a-ma-maniere-nike-air-force-1-wyws-pack/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T18:18:07+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Collab"
+   ],
+   "summary": "Out of nowhere, a Ma Maniére’s Nike Air Force 1 Low collaboration has dropped in all six colorways, with pairs available now at the company’s stores in Atlanta, Chicago, Washington, D.C. and Houston. This drop is not a raffle, nor a normal online release. Customers can go to one of those locations and purchase a […] The post A Ma Maniere Just Dropped Their Nike Air Force 1 Low Collection appeared ",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "bd588f26fd4c8766",
+   "title": "SoleFly x Air Jordan 5 Official Photos",
+   "link": "https://sneakerbardetroit.com/solefly-air-jordan-5/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T18:02:13+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Collab"
+   ],
+   "summary": "UPDATE 11/23/26: Official photos of the SoleFly x Air Jordan 5 are here, giving us a closer look at the extended laces inspired by Miami’s boxing culture. The shoes also come with Purple, Sail, and Pink laces, special packaging, and a lenticular card showing the different ways to lace them up, including around the ankle. […] The post SoleFly x Air Jordan 5 Official Photos appeared first on Sneaker",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "6fce2d1b7e9847a4",
+   "title": "A Ma Maniere Just Dropped Their Nike Air Force 1 Collection In-Store",
+   "link": "https://sneakernews.com/2026/11/23/a-ma-maniere-nike-air-force-1-color-pack/",
+   "source": "Sneaker News",
+   "site": "https://sneakernews.com/",
+   "tier": "A",
+   "published": "2026-11-23T17:56:02+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop"
+   ],
+   "summary": "In an era when buying a coveted sneaker often requires entering a raffle, downloading an app, or crossing your fingers for a lucky draw, A... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post A Ma Maniere Just Dropped Their Nike Air Force 1 Collection In-Store appeared first on Sneaker News . The post A Ma Maniere Just Dropped Their Nike Air Force 1 Collection In-Store ",
+   "image": "https://sneakernews.com/wp-content/uploads/2026/05/a-ma-maniere-nike-air-force-1-canyon-purple-cave-purple-IO1543-500-3.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "42303481cac236b9",
+   "title": "Nike Celebrates Formula 1 Partnership With Star-Studded Las Vegas Event",
+   "link": "https://sneakerbardetroit.com/nike-formula-1-las-vegas-grand-prix-party-event/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T17:50:51+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Collab",
+    "Sale"
+   ],
+   "summary": "Nike is getting back into Formula 1 for the first time in more than a decade, with the brand announcing a new partnership that will begin during the 2027 racing season. The deal will include racing apparel, collaborative footwear, and other products tied to the sport, but neither side has provided much information on what […] The post Nike Celebrates Formula 1 Partnership With Star-Studded Las Veg",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "80be99bb06949ade",
+   "title": "Character Toddler Boys' & Girls' Chunky Athletic Sneakers (Various): Disney Pixar Cars Lightning McQueen $12 & More + Free Shipping w/ Walmart+ or on $35+",
+   "link": "https://slickdeals.net/f/20379084-character-toddler-boys-girls-chunky-athletic-sneakers-various-disney-pixar-cars-lightning-mcqueen-12-more-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T17:37:10+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Walmart [walmart.com] has *Character Toddler Boys' & Girls' Chunky Athletic Sneakers (Various)* on sale for *$12*. Shipping is free w/ Walmart+ ($1 trial available [walmart.com]) or on orders $35+. ...",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22544607.thumb",
+   "prices": [
+    "$12",
+    "$35",
+    "$1"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "ed94b6999b0e2324",
+   "title": "Nike F1 Hosted A Huge Gathering Of Stars In Las Vegas",
+   "link": "https://sneakernews.com/2026/11/23/nike-f1-las-vegas-grand-prix-party/",
+   "source": "Sneaker News",
+   "site": "https://sneakernews.com/",
+   "tier": "A",
+   "published": "2026-11-23T17:30:45+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Other"
+   ],
+   "summary": "Nike and Formula One are finally back together after more than a decade apart, a move that signals Beaverton’s comprehensive love for sport by aligning... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike F1 Hosted A Huge Gathering Of Stars In Las Vegas appeared first on Sneaker News . The post Nike F1 Hosted A Huge Gathering Of Stars In Las Vegas appeared first on",
+   "image": "https://sneakernews.com/wp-content/uploads/2026/11/nike-f1-las-vegas-grand-prix-party-10.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "4f8973e67752c677",
+   "title": "Nike Women's V5 RNR Sneakers (Coconut Milk) $38.99 + Free Shipping on $60+",
+   "link": "https://slickdeals.net/f/20378877-nike-women-s-v5-rnr-sneakers-coconut-milk-38-99-free-shipping-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T17:16:44+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Urban Outfitters [urbanoutfitters.com] has *Nike Women's V5 RNR Shoes (Coconut Milk) *for *$38.99 (see price in cart with extra 40% off)*. Shipping is free on orders $60+ or select free store pickup.",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/22544217.thumb",
+   "prices": [
+    "$38.99",
+    "$60"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "71e5d22580ca3cd6",
+   "title": "Nike Women's Pacific Leather Sneakers (Sail/Orange) $32.99 + Free Shipping on $60+",
+   "link": "https://slickdeals.net/f/20378826-nike-women-s-pacific-leather-sneakers-sail-orange-32-99-free-shipping-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T17:13:34+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Urban Outfitters [urbanoutfitters.com] has *Nike Women's Pacific Leather Shoes (Sail/Orange) *for *$32.99 (see price in cart)*. Shipping is free on orders $60+.",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/22544136.thumb",
+   "prices": [
+    "$32.99",
+    "$60"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "f1da7922ece68eb2",
+   "title": "Nike Women's Air Superfly SE Sneakers (Phantom) $35.99 + Free Shipping on $60+",
+   "link": "https://slickdeals.net/f/20378790-nike-women-s-air-superfly-se-sneakers-phantom-35-99-free-shipping-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T17:10:49+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Urban Outfitters [urbanoutfitters.com] has * Nike Women's Air Superfly SE Shoes (Phantom) *for *$35.99 (see price in cart)*. Shipping is free on orders $60+.",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/22544019.thumb",
+   "prices": [
+    "$35.99",
+    "$60"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "cfac98ad3c62d16a",
+   "title": "Pharrell’s adidas Jellyfish “Triple Black” Returns November 25th",
+   "link": "https://sneakerbardetroit.com/adidas-jellyfish-triple-black/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T17:08:33+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop"
+   ],
+   "summary": "Pharrell Williams’ adidas Adistar Jellyfish is back in an all-black iteration, after dropping in New York last year. For this go-round, adidas has tapped college football star Jeremiah Smith to lead the campaign for the VIRGINIA sneaker, one of the more recognizable designs to emerge from Pharrell’s work with the brand. The “Triple Black” colorway […] The post Pharrell’s adidas Jellyfish “Triple B",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "428b55c64decb579",
+   "title": "Nike Women's Astrograbber Suede Sneakers $32.99 + Free Shipping on $60+",
+   "link": "https://slickdeals.net/f/20378775-nike-women-s-astrograbber-suede-sneakers-32-99-free-shipping-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T17:07:18+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Urban Outfitters [urbanoutfitters.com] has *Nike Women's Astrograbber Suede Shoes (Pink) *for *$32.99 (see price in cart)*. Shipping is free on orders $60+.",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/22543914.thumb",
+   "prices": [
+    "$32.99",
+    "$60"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "b22a45f9aca8e17e",
+   "title": "No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX",
+   "link": "https://www.nicekicks.com/puma-hybrid-rcn-hyrox-nitro-elite-release-date/",
+   "source": "Nice Kicks",
+   "site": "https://www.nicekicks.com/",
+   "tier": "A",
+   "published": "2026-11-23T17:06:06+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Other"
+   ],
+   "summary": "The HYBRID RCN HYROX NITRO ELITE trades the marathon-shoe blueprint for a wider platform, a hybrid-tuned plate and a new outsole compound. It lands December 5 for $275. The post No Marathon DNA: PUMA Unveils a Race Shoe Built Only for HYROX appeared first on Nice Kicks .",
+   "image": "https://www.nicekicks.com/files/2026/11/puma-hybrid-rcn-hyrox-nitro-elite-camo-on-foot-5-scaled.jpg",
+   "prices": [
+    "$275"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "154970ebb9bdfbff",
+   "title": "Nike Women's Air Superfly Sneakers (Pink) $32.99 + Free Shipping on $60+",
+   "link": "https://slickdeals.net/f/20378733-nike-women-s-air-superfly-sneakers-pink-32-99-free-shipping-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T17:03:20+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Urban Outfitters [urbanoutfitters.com] has *Nike Women's Air Superfly Shoes (Pink) *for *$32.99 (see price in cart)*. Shipping is free on orders $60+.",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/22543830.thumb",
+   "prices": [
+    "$32.99",
+    "$60"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "2f71c298c693f952",
+   "title": "Nike Gyakusou Running Footwear Is Coming Sooner Than You Think",
+   "link": "https://sneakernews.com/2026/11/23/nike-gyakusou-vomero-plus-alphafly/",
+   "source": "Sneaker News",
+   "site": "https://sneakernews.com/",
+   "tier": "A",
+   "published": "2026-11-23T17:00:00+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop"
+   ],
+   "summary": "Nike and Jun Takahashi saw an opportunity to create elevated running gear long before it became commonplace following the pandemic-induced running boom. In 2010, the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Gyakusou Running Footwear Is Coming Sooner Than You Think appeared first on Sneaker News . The post Nike Gyakusou Running Footwear Is Coming Sooner ",
+   "image": "https://sneakernews.com/wp-content/uploads/2026/11/nike-gyakusou-alphafly-4-iz1246-100-3.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "576ea656b1ece6c5",
+   "title": "Nike Women's Shox Z Sneakers (2 Colors) $41.98 + Free Shipping on $60+",
+   "link": "https://slickdeals.net/f/20378640-nike-women-s-shox-z-sneakers-2-colors-41-98-free-shipping-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T16:51:05+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Urban Outfitters [urbanoutfitters.com] has *Nike Women's Shox Z Shoes (2 Colors)* for *$41.98 (see price in cart)*. Shipping is free on orders $60+.",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/22543584.thumb",
+   "prices": [
+    "$41.98",
+    "$60"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "c89218816bc87219",
+   "title": "The Bronx Is Getting Its Own Nike Air Force 1 Low",
+   "link": "https://sneakerbardetroit.com/nike-air-force-1-low-bronx-jj1526-094/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T16:12:03+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop"
+   ],
+   "summary": "Nike has been showing New York a lot of love lately, especially in terms of the Air Force 1. Earlier in 2026, the brand re-released the Air Force 1 ’01 “NYC” via pre-orders, followed by the release of the orange and blue iterations of the ’07 in stores. Nike has also been working on more […] The post The Bronx Is Getting Its Own Nike Air Force 1 Low appeared first on Sneaker Bar Detroit .",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "699dc05fd8e8b672",
+   "title": "Westside Gunn x Saucony Grid Jazz 9 “HEELMATIC” Goes All-Red For December",
+   "link": "https://sneakerbardetroit.com/westside-gunn-saucony-grid-jazz-9-red-heelmatic/",
+   "source": "Sneaker Bar Detroit",
+   "site": "https://sneakerbardetroit.com/",
+   "tier": "A",
+   "published": "2026-11-23T15:43:44+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Collab"
+   ],
+   "summary": "Westside Gunn has another Saucony Grid Jazz 9 coming soon, after his “Awesome Gods” colorway sold out back in August. His newest version, called “HEELMATIC,” is all red to match his latest album’s artwork and theme. It’s also his third collaboration with Saucony, set to release December 4, 2026. The shoe derives most of its […] The post Westside Gunn x Saucony Grid Jazz 9 “HEELMATIC” Goes All-Red ",
+   "image": null,
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "31117d985d5dfbd4",
+   "title": "Nike Women's Structure 26 Shoes (Wide - Chalk) $46.40 + Free Shipping",
+   "link": "https://slickdeals.net/f/20377302-nike-women-s-structure-26-shoes-wide-chalk-46-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T14:33:55+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Zappos [zappos.com] has has *Nike Women's Structure 26 Sneakers (Wide Sizes Only- Chalk)* for *$46.40*. *Shipping is free*.",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/22539135.thumb",
+   "prices": [
+    "$46.40"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "bc3f4947eb3a6019",
+   "title": "Bruno Marc Men's Casual Sneakers $25 Shipped",
+   "link": "https://slickdeals.net/f/20377209-bruno-marc-men-s-casual-sneakers-25-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T14:21:08+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Sale"
+   ],
+   "summary": "Bruno Marc has select Men's Casual Sneakers on sale for $25 after applying coupon code bm152 at checkout. Shipping is free. Highlights: Men's casual sneakers Suitable for everyday wear ...",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/6/4/6/0/300x300/22538799.thumb",
+   "prices": [
+    "$25"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "ed4e1b661cc8ab36",
+   "title": "ALLSWIFIT Women's Tennis & Pickleball Sneakers $22.79 Shipped",
+   "link": "https://slickdeals.net/f/20377191-allswifit-women-s-tennis-pickleball-sneakers-22-79-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "source": "Slickdeals: sneakers",
+   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
+   "tier": "A",
+   "published": "2026-11-23T14:18:30+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop",
+    "Sale"
+   ],
+   "summary": "Amazon has select ALLSWIFIT Women's Tennis and Pickleball Sports Fashion Sneakers on sale for $22.79 after the price drop and applying coupon code IUOWB3V3 at checkout. Highlights: Women's...",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/6/4/6/0/300x300/22538736.thumb",
+   "prices": [
+    "$22.79"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "d33cb274df9680f9",
+   "title": "Your holiday gift guide for runners, by runners (2026 Edition)",
+   "link": "https://believeintherun.com/articles/holiday-gift-guide-for-runners-2026",
+   "source": "Believe in the Run",
+   "site": "https://believeintherun.com/",
+   "tier": "B",
+   "published": "2026-11-23T14:00:00+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Review"
+   ],
+   "summary": "The post Your holiday gift guide for runners, by runners (2026 Edition) appeared first on Believe in the Run .",
+   "image": "https://believeintherun.com/media/2026-11-16/85e923d0-3d7d-4289-8cc3-31e1226de280.jpg",
+   "prices": [],
+   "also_in": [],
+   "coverage": 1
+  },
+  {
+   "id": "b33c04af0acd0339",
+   "title": "SOMEWHERE and ASICS Honor D.C. Heritage With the GEL Stratus MC “Chocolate City”",
+   "link": "https://hypebeast.com/2026/11/somewhere-asics-gel-stratus-mc-chocolate-city-1203b382-020-release-info",
+   "source": "Hypebeast Footwear",
+   "site": "https://hypebeast.com/footwear",
+   "tier": "A",
+   "published": "2026-11-23T10:06:57+00:00",
+   "first_seen": "2026-11-23T21:58:52.560155+00:00",
+   "signals": [
+    "Drop"
+   ],
+   "summary": "Summary Washington, D.C. boutique SOMEWHERE reunites with ASICS for a “Chocolate City” GEL-Stratus MC honoring the capital's heritage.The hybrid runner features white mesh, blue overlays, neon hits, and chocolate-wrapper brown-trimmed silver panels.Launches November 28 for $110 USD. Name: SOMEWHERE x ASICS GEL-Stratus MC “Chocolate City”Colorway: Quiet Grey/Neon BlueSKU: 1203B382-020MSRP: $110 USD",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F23%2Fsomewhere-x-asics-gel-stratus-mc-chocolate-city-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+   "prices": [
+    "$110"
+   ],
+   "also_in": [],
+   "coverage": 1
+  },
   {
    "id": "0199b6bd1d32caff",
    "title": "New Balance 991 Made in UK Surfaces in \"Luxe Black Leather\"",
@@ -10521,840 +11346,6 @@
    "prices": [
     "$50.40",
     "$180"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "f165d1e6236d4c6d",
-   "title": "thisisneverthat and Danner’s Cascade Range Packs Trail-Grade Armor Into a Low-Top",
-   "link": "https://hypebeast.com/2026/11/thisisneverthat-danner-cascade-range-release-info",
-   "source": "Hypebeast Footwear",
-   "site": "https://hypebeast.com/footwear",
-   "tier": "A",
-   "published": "2026-11-11T11:00:56+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Collab"
-   ],
-   "summary": "Name: thisisneverthat x Danner “Cascade Range”Colorway: TBCSKU: TBCMSRP: TBCRelease Date: November 13Where to Buy: thisisneverthatthisisneverthat and Danner have joined forces on the Cascade Range, a low-cut hiker that borrows its design language and secure fit from the brand’s iconic Danner Light boot. Reworked through the Seoul-based label’s lens, the collaboration trades the original’s high sha",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fthisisneverthat-Danner-Cascade-Range-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "ebdf381c2be0e6ef",
-   "title": "adidas Originals x Drama Call Scatter Star Emblems Across the ClimaCool 1 GTX “Drama”",
-   "link": "https://hypebeast.com/2026/11/adidas-originals-drama-call-climacool-1-gtx-drama-collaboration-release-info",
-   "source": "Hypebeast Footwear",
-   "site": "https://hypebeast.com/footwear",
-   "tier": "A",
-   "published": "2026-11-11T10:34:59+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop",
-    "Collab"
-   ],
-   "summary": "Name: adidas Originals x Drama Call ClimaCool 1 GTX “Drama”Colorway: “Drama”SKU: TBCMSRP: TBCRelease Date: November 14Where to Buy: Drama Call, CONFIRMEDadidas Originals and Manchester streetwear label Drama Call are reuniting for their fourth collaborative drop, presenting a weather-ready reimagining of a beloved silhouette with the ClimaCool 1 GTX \"Drama\". Designed by Drama Call founder Charlie ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2Fadidas-originals-drama-call-climacool-1-gtx-drama-collaboration-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "5c30db8d2320b952",
-   "title": "Nike Ja 4 High “Christmas” Releases December 2026",
-   "link": "https://www.sneakerfiles.com/nike-ja-4-high-christmas/",
-   "source": "Sneaker Files",
-   "site": "https://sneakerfiles.com/",
-   "tier": "B",
-   "published": "2026-11-11T09:28:27+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "The Nike Ja 4 High “Christmas” will release on December 26, 2026. Ja Morant’s fourth signature shoe receives a holiday... The post Nike Ja 4 High “Christmas” Releases December 2026 appeared first on .",
-   "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/11/nike-ja-4-high-christmas-iz2537-300-1024x725.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "530c512effae6f1f",
-   "title": "Nike GT Future “Volt” Releases November 2026",
-   "link": "https://www.sneakerfiles.com/nike-gt-future-volt/",
-   "source": "Sneaker Files",
-   "site": "https://sneakerfiles.com/",
-   "tier": "B",
-   "published": "2026-11-11T09:09:15+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "The Nike GT Future “Volt,” also known as “Unseen,” will release on November 13, 2026. Part of Nike Basketball’s Unseen... The post Nike GT Future “Volt” Releases November 2026 appeared first on .",
-   "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/11/nike-gt-future-volt-FZ5590-701-1024x725.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "2eb2e8c786371de9",
-   "title": "Air Jordan 5 “Phoenix Suns” Releases March 2027",
-   "link": "https://www.sneakerfiles.com/air-jordan-5-phoenix-suns/",
-   "source": "Sneaker Files",
-   "site": "https://sneakerfiles.com/",
-   "tier": "B",
-   "published": "2026-11-11T08:57:55+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "The Air Jordan 5 “Phoenix Suns” will be released on March 6, 2027. A new colorway of Michael Jordan’s fifth... The post Air Jordan 5 “Phoenix Suns” Releases March 2027 appeared first on .",
-   "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/04/air-jordan-5-phoenix-suns-2027-DD0587-105-1024x725.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "c5baa6283749dfb5",
-   "title": "Nike Book 2 \"Be Legendary\" Honors Kobe Bryant in Signature Purple",
-   "link": "https://hypebeast.com/2026/11/nike-book-2-be-legendary-honors-kobe-bryant-in-signature-purple",
-   "source": "Hypebeast Footwear",
-   "site": "https://hypebeast.com/footwear",
-   "tier": "A",
-   "published": "2026-11-11T08:41:11+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "Summary Nike and Devin Booker are releasing the Book 2 in a purple Be Legendary colorway honoring Kobe BryantThe silhouette features light purple tumbled leather dark purple ripstop and a black patent leather SwooshThe pair is expected to release on November 20 in men's sizing for 145 USD via Nike and select retailers Name: Nike Book 2 \"Be Legendary\"Colorway: Bright Violet/Black-Wolf GreySKU: FZ70",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F08%2Fnike-book-2-be-legendary-fz7013-501-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "e49efa0a7735cef2",
-   "title": "The Nike Moon Shoe OG Suede Reshapes a ’70s Runner for Modern Comfort",
-   "link": "https://hypebeast.com/2026/11/nike-moon-shoe-og-suede-sanddrift-baroque-brown-iu5934-100-iu5934-201-japan-release-info",
-   "source": "Hypebeast Footwear",
-   "site": "https://hypebeast.com/footwear",
-   "tier": "A",
-   "published": "2026-11-11T08:40:55+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "Name: Nike Moon Shoe OG Suede “Sanddrift,” Nike Moon Shoe OG Suede “Baroque Brown”Colorway: Sanddrift/Pale Ivory/Gum Light Brown/White, Baroque Brown/Tar/Gum Dark Brown/SailSKU: IU5934-100, IU5934-201MSRP: ¥15,730 JPY (approx. $100 USD)Release Date: Available nowWhere to Buy: Nike JapanNike is giving the women’s Moon Shoe OG Suede a quiet but meaningful update, refining the fit of its heritage run",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2FNike-Moon-Shoe-OG-Suede-Sanddrift-Baroque-Brown-IU5934-100-IU5934-201-Japan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "prices": [
-    "$100"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "91a885f6b9b4e4cb",
-   "title": "Nike Air Diamond Turf 2 Patent “Black Red” Releases November 2026",
-   "link": "https://www.sneakerfiles.com/nike-air-diamond-turf-2-patent-black-red/",
-   "source": "Sneaker Files",
-   "site": "https://sneakerfiles.com/",
-   "tier": "B",
-   "published": "2026-11-11T08:30:39+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "The Nike Air Diamond Turf 2 Patent “Black Red” will release on November 13, 2026. The upcoming pair combines Patent... The post Nike Air Diamond Turf 2 Patent “Black Red” Releases November 2026 appeared first on .",
-   "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/09/nike-air-diamond-turf-2-patent-black-gym-red-II7066-001-1024x725.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "fd939c58691a03e7",
-   "title": "adidas men Terrex Anylander Hiking Shoes with code \"SHOPBRANDS20\" for $30.40 . Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xtcbl4/adidas_men_terrex_anylander_hiking_shoes_with/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-11T08:14:59+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$30.40"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "3f8b89d1533da370",
-   "title": "adidas women Terrex Anylander Hiking Shoes with code \"SHOPBRANDS20\" for $27.20 . Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xtcb5v/adidas_women_terrex_anylander_hiking_shoes_with/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-11T08:14:16+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$27.20"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "fd6d93c91efe7c3c",
-   "title": "adidas men Lite Racer Adapt 8.0 Shoes with code \"SHOPBRANDS20\" for $24. Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xtc7tt/adidas_men_lite_racer_adapt_80_shoes_with_code/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-11T08:08:27+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$24"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "050bfde8bea45c8a",
-   "title": "Air Jordan 4 “Cave Stone Phantom” Releases February 2027",
-   "link": "https://www.sneakerfiles.com/air-jordan-4-cave-stone-phantom/",
-   "source": "Sneaker Files",
-   "site": "https://sneakerfiles.com/",
-   "tier": "B",
-   "published": "2026-11-11T08:06:00+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "The Air Jordan 4 “Cave Stone Phantom” will release on February 12, 2027, exclusively in Europe. The upcoming pair features... The post Air Jordan 4 “Cave Stone Phantom” Releases February 2027 appeared first on .",
-   "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/11/air-jordan-4-cave-stone-phantom-1024x725.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "9a3db9f86183be46",
-   "title": "adidas men RUNFALCON 6 WIDE Shoes with code \"SHOPBRANDS20\" for $24 . Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xtc2kn/adidas_men_runfalcon_6_wide_shoes_with_code/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-11T08:00:10+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$24"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "c3918219a2b1367d",
-   "title": "Air Jordan 4 TD “Bred” Releases November 2026",
-   "link": "https://www.sneakerfiles.com/air-jordan-4-td-bred-hq0207-001/",
-   "source": "Sneaker Files",
-   "site": "https://sneakerfiles.com/",
-   "tier": "B",
-   "published": "2026-11-11T07:57:36+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "The Air Jordan 4 TD “Bred” will release on November 27, 2026. Jordan Brand is bringing the classic colorway to... The post Air Jordan 4 TD “Bred” Releases November 2026 appeared first on .",
-   "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/11/air-jordan-4-td-bred-HQ0207-001-1024x725.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "2d922b603fda3db9",
-   "title": "adidas women Runfalcon 5 Wide Running Shoes with code \"SHOPBRANDS20\" for $16.80 . Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xtc0hx/adidas_women_runfalcon_5_wide_running_shoes_with/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-11T07:56:29+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$16.80"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "5819bedaf4abf70f",
-   "title": "The Rick Owens x adidas Springblade Collection Runs on a Full-Length Bed of Blades",
-   "link": "https://hypebeast.com/2026/11/rick-owens-adidas-springblade-runner-boot-fall-2026-collection-kj3110-kj5663-kj3122-release-info",
-   "source": "Hypebeast Footwear",
-   "site": "https://hypebeast.com/footwear",
-   "tier": "A",
-   "published": "2026-11-11T07:33:02+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Collab"
-   ],
-   "summary": "Name: Rick Owens x adidas Springblade Runner, Rick Owens x adidas Springblade BootColorway: Core Black/Core Black/Light Brown, Core Black/Core Black/Light Brown, Light Brown/Light Brown/Core BlackSKU: KJ3110, KJ5663, KJ3122MSRP: $590 USD, $850 USDRelease Date: November 17Where to Buy: adidas CONFIRMED App, adidas, Rick OwensThe Rick Owens x adidas Springblade collection marks the first major step ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F11%2FRick-Owens-adidas-Springblade-runner-boot-Fall-2026-Collection-KJ3110-KJ5663-KJ3122-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
-   "prices": [
-    "$590",
-    "$850"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "625c380ac31f8298",
-   "title": "ASICS and JUNTAE KIM Unveil Hybrid GEL-KINETIC FR Dress Sneaker",
-   "link": "https://hypebeast.com/2026/11/juntae-kim-asics-gel-kinetic-fr-collaboration-release-info",
-   "source": "Hypebeast Footwear",
-   "site": "https://hypebeast.com/footwear",
-   "tier": "A",
-   "published": "2026-11-11T07:13:18+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Collab"
-   ],
-   "summary": "Summary ASICS and JUNTAE KIM have unveiled their debut collaboration featuring the hybrid GEL-KINETIC FR dress sneakerThe design explores the concept of wilting flowers through gradient uppers genuine leather paneling and detachable floral hardwareArriving in Black Navy and Red colorways the collaborative footwear is scheduled to release on November 20 Japanese sportswear stalwart ASICS has offici",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fjuntae-kim-asics-gel-kinetic-fr-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "9cdf87ddcd54cad6",
-   "title": "Ojos x Sorel Unveil First Footwear Collection \"Stars on the Ground\"",
-   "link": "https://hypebeast.com/2026/11/ojos-x-sorel-launches-first-footwear-collection-stars-on-the-ground",
-   "source": "Hypebeast Footwear",
-   "site": "https://hypebeast.com/footwear",
-   "tier": "A",
-   "published": "2026-11-11T06:24:09+00:00",
-   "first_seen": "2026-11-11T14:00:06.242918+00:00",
-   "signals": [
-    "Drop",
-    "Collab"
-   ],
-   "summary": "Seoul-based contemporary womenswear brand Ojos and winter outdoor footwear brand Sorel are launching their first global collaborative collection, 'Stars on the Ground'.This collaboration blends Sorel's technical prowess for braving harsh winter environments with Ojos' aesthetic of translating functional materials into experimental designs. The collection features two models—tall boots and clogs—th",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fojos-x-sorel-launches-first-footwear-collection-stars-on-the-ground-ft.jpg?w=800&cbr=1&q=90&fit=max",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "00912578f75c8ac0",
-   "title": "adidas women Runfalcon 5 Wide Running Shoes ( Core Black / Cloud White / Core Black) - $16.80 + FS",
-   "link": "https://slickdeals.net/f/20288520-adidas-women-runfalcon-5-wide-running-shoes-core-black-cloud-white-core-black-16-80-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "source": "Slickdeals: sneakers",
-   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
-   "tier": "A",
-   "published": "2026-11-11T05:55:06+00:00",
-   "first_seen": "2026-11-13T14:50:51.410199+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "On sale for $21 - extra 20% off with promo code: *SHOPBRANDS20* Shipping is free. https://www.ebay.com/itm/96018050...Swmalq87Zv",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22294383.thumb",
-   "prices": [
-    "$16.80",
-    "$21"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "4f79e40b3e4f4e27",
-   "title": "adidas men Runfalcon 5 TR Running Shoes (Core Black / Silver Metallic / Carbon) $28",
-   "link": "https://slickdeals.net/f/20288430-adidas-men-runfalcon-5-tr-running-shoes-core-black-silver-metallic-carbon-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "source": "Slickdeals: sneakers",
-   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
-   "tier": "A",
-   "published": "2026-11-11T05:34:16+00:00",
-   "first_seen": "2026-11-13T14:50:51.410199+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "adidas men Runfalcon 5 TR Running Shoes (Core Black / Silver Metallic / Carbon) *$28.00* Apply code *SHOPBRANDS20* at checkout. Free shipping. _Details_ * Regular fit * Lace closure *...",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22294128.thumb",
-   "prices": [
-    "$28",
-    "$28.00"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "1b543cc6b7bc212a",
-   "title": "adidas men Runfalcon 5 WIDE Running Shoes (Grey Three / Carbon / Cloud White) $24",
-   "link": "https://slickdeals.net/f/20288424-adidas-men-runfalcon-5-wide-running-shoes-grey-three-carbon-cloud-white-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "source": "Slickdeals: sneakers",
-   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
-   "tier": "A",
-   "published": "2026-11-11T05:31:43+00:00",
-   "first_seen": "2026-11-13T14:50:51.410199+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "adidas men Runfalcon 5 WIDE Running Shoes (Grey Three / Carbon / Cloud White) *$24.00* Apply code *SHOPBRANDS20* at checkout. Free shipping. _Details_ * Wide fit * Laces * Upper: Textile...",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22294824.thumb",
-   "prices": [
-    "$24",
-    "$24.00"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "081cae6c890c986c",
-   "title": "adidas men Response Runner Shoes (Cloud White / Lucid Blue / Lucid Lemon) $22.4",
-   "link": "https://slickdeals.net/f/20288412-adidas-men-response-runner-shoes-cloud-white-lucid-blue-lucid-lemon-22-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "source": "Slickdeals: sneakers",
-   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
-   "tier": "A",
-   "published": "2026-11-11T05:26:29+00:00",
-   "first_seen": "2026-11-13T14:50:51.410199+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "adidas men Response Runner Shoes (Cloud White / Lucid Blue / Lucid Lemon) *$22.40* Apply code *SHOPBRANDS20* at checkout. Free shipping. _Details_ * Regular fit * Lace closure * Upper:...",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22294095.thumb",
-   "prices": [
-    "$22.4",
-    "$22.40"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "d38405012360a19b",
-   "title": "adidas Men's Questar 4 Running Shoes (Cloud White / Core Black / Iron Metallic) $27.20 + Free S&H",
-   "link": "https://slickdeals.net/f/20288409-adidas-men-s-questar-4-running-shoes-cloud-white-core-black-iron-metallic-27-20-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "source": "Slickdeals: sneakers",
-   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
-   "tier": "A",
-   "published": "2026-11-11T05:24:20+00:00",
-   "first_seen": "2026-11-12T10:10:26.911599+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "adidas men Questar 4 Running Shoes (Cloud White / Core Black / Iron Metallic) *$27.20* Apply code *SHOPBRANDS20* at checkout. Free shipping. _Details_ * Regular fit * Lace closure *...",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22294089.thumb",
-   "prices": [
-    "$27.20"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "ea5550af9d921dc3",
-   "title": "adidas men Runfalcon 6 WIDE Shoes (Core Black / Cloud White / Carbon) $24",
-   "link": "https://slickdeals.net/f/20288397-adidas-men-runfalcon-6-wide-shoes-core-black-cloud-white-carbon-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "source": "Slickdeals: sneakers",
-   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
-   "tier": "A",
-   "published": "2026-11-11T05:20:33+00:00",
-   "first_seen": "2026-11-13T14:50:51.410199+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "adidas men Runfalcon 6 WIDE Shoes (Core Black / Cloud White / Carbon) *$24.00* Apply code *SHOPBRANDS20* at checkout. Free shipping. _Details_ * Wide fit * Laces * Upper: Textile / Other...",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22294071.thumb",
-   "prices": [
-    "$24",
-    "$24.00"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "23bedcdd023fcc6c",
-   "title": "Michigan State Debuts Nike Caitlin 1 PE",
-   "link": "https://sneakerbardetroit.com/nike-caitlin-1-michigan-state-pe/",
-   "source": "Sneaker Bar Detroit",
-   "site": "https://sneakerbardetroit.com/",
-   "tier": "A",
-   "published": "2026-11-11T03:38:04+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "Michigan State gave the Nike Caitlin 1 its latest on-court appearance during its game against Duke, with the Spartans wearing a player-exclusive colorway of Caitlin Clark’s first signature shoe. Clark hasn’t been playing lately, but her new Nike model is already showing up on college basketball courts. The Michigan State PE sticks with the school’s […] The post Michigan State Debuts Nike Caitlin 1",
-   "image": null,
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "b4e4bf03ae5286bb",
-   "title": "Michigan State Debuts Nike Caitlin 1 PE In Win Over Duke",
-   "link": "https://sneakernews.com/2026/11/10/nike-caitlin-1-michigan-state-spartans-pe/",
-   "source": "Sneaker News",
-   "site": "https://sneakernews.com/",
-   "tier": "A",
-   "published": "2026-11-11T03:16:01+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Other"
-   ],
-   "summary": "Caitlin Clark may be away from the basketball court, but her first Nike signature shoe is finding new ways to make its presence felt. The... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Michigan State Debuts Nike Caitlin 1 PE In Win Over Duke appeared first on Sneaker News . The post Michigan State Debuts Nike Caitlin 1 PE In Win Over Duke appeared first on Sneaker",
-   "image": "https://sneakernews.com/wp-content/uploads/2026/11/nike-caitlin-1-michigan-state-spartans-pe-4.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "ca80dc68d58e3c35",
-   "title": "Closer Look at the Nike CPFM Flea 1 \"Cave Purple\"",
-   "link": "https://hypebeast.com/2026/11/nike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info",
-   "source": "Hypebeast Footwear",
-   "site": "https://hypebeast.com/footwear",
-   "tier": "A",
-   "published": "2026-11-11T03:11:41+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Collab"
-   ],
-   "summary": "Summary A closer look has surfaced at the upcoming CPFM x Nike Flea 1 in Cave Purple after LeBron James was first spotted wearing the sneakerThe silhouette incorporates purple suede panels geometric overlays a dirt-styled thick midsole and yin-yang heel embroideryThe collaborative shoe is expected to drop in Holiday 2026 via CPFM raffle for 180 USD alongside a Barley colorway Name: Nike CPFM Flea ",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fnike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "f3897ee7449c88e9",
-   "title": "adidas Anthony Edwards 3 “Ant-Man” Releases December 2026",
-   "link": "https://sneakerbardetroit.com/adidas-anthony-edwards-3-ant-man-hp4712/",
-   "source": "Sneaker Bar Detroit",
-   "site": "https://sneakerbardetroit.com/",
-   "tier": "A",
-   "published": "2026-11-11T03:09:15+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Drop",
-    "Collab"
-   ],
-   "summary": "Anthony Edwards already goes by Ant-Man, so having his own Ant-Man sneaker in the Marvel x adidas collection makes sense. The adidas AE 3 “Ant-Man” is part of the upcoming Avengers: Doomsday lineup, which also includes a “Doctor Doom” colorway of Edwards’ third signature shoe. The nickname has followed Edwards for years, and now it […] The post adidas Anthony Edwards 3 “Ant-Man” Releases December ",
-   "image": null,
-   "prices": [],
-   "also_in": [
-    {
-     "source": "Sneaker Files",
-     "link": "https://www.sneakerfiles.com/adidas-anthony-edwards-3-ant-man/"
-    }
-   ],
-   "coverage": 2
-  },
-  {
-   "id": "c6e3a06ba472109c",
-   "title": "adidas Anthony Edwards 3 “Doctor Doom” Releases December 2026",
-   "link": "https://sneakerbardetroit.com/adidas-anthony-edwards-3-dr-doom-release-date/",
-   "source": "Sneaker Bar Detroit",
-   "site": "https://sneakerbardetroit.com/",
-   "tier": "A",
-   "published": "2026-11-11T02:32:54+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Drop",
-    "Collab"
-   ],
-   "summary": "Doctor Doom is getting his own adidas Anthony Edwards 3 as part of the upcoming Marvel x adidas collection. The shoe is tied to Avengers: Doomsday, which hits theaters December 18, 2026. There’s also a Doctor Doom Superstar in the collection, along with an Ant-Man colorway of the AE 3. The Doctor Doom theme isn’t […] The post adidas Anthony Edwards 3 “Doctor Doom” Releases December 2026 appeared f",
-   "image": null,
-   "prices": [],
-   "also_in": [
-    {
-     "source": "Sneaker Files",
-     "link": "https://www.sneakerfiles.com/adidas-anthony-edwards-3-dr-doom/"
-    }
-   ],
-   "coverage": 2
-  },
-  {
-   "id": "8ef65296ffa4b5da",
-   "title": "Air Jordan 11 “Magic Ball” Releases November 11th",
-   "link": "https://sneakerbardetroit.com/air-jordan-11-wmns-space-jam-2026/",
-   "source": "Sneaker Bar Detroit",
-   "site": "https://sneakerbardetroit.com/",
-   "tier": "A",
-   "published": "2026-11-11T01:59:03+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "Jordan Brand has revealed a new Air Jordan 11 releasing as part of its Space Jam 30th Anniversary collection, with a new women’s colorway for Holiday 2026. It will join the returning “Space Jam” pair and the “Green Screen” colorway already tied to the anniversary lineup. Official images show a much different look from the […] The post Air Jordan 11 “Magic Ball” Releases November 11th appeared firs",
-   "image": null,
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "a228d0614871baaf",
-   "title": "adidas Hyperboost Edge Sneakers - Several colors $99.99",
-   "link": "https://slickdeals.net/f/20287581-adidas-hyperboost-edge-sneakers-several-colors-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "source": "Slickdeals: sneakers",
-   "site": "https://slickdeals.net/newsearch.php?q=sneakers",
-   "tier": "A",
-   "published": "2026-11-11T01:57:55+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "adidas Hyperboost Edge Sneakers various sizes and 3 color available at this price as pictured https://www.scheels.com/p/1983299...urce=share",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22293576.thumb",
-   "prices": [
-    "$99.99"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "ae8ea293607bbd60",
-   "title": "adidas Basketball Is Ready For Avengers: Doomsday With The AE3",
-   "link": "https://sneakernews.com/2026/11/10/adidas-ae3-avengers-doomsday-dr-doom-ant-man/",
-   "source": "Sneaker News",
-   "site": "https://sneakernews.com/",
-   "tier": "A",
-   "published": "2026-11-11T01:57:02+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Collab"
-   ],
-   "summary": "Anthony Edwards is assembling his own Avengers squad. Later this year, adidas Basketball will join forces with Marvel’s Avengers for a two-part collaboration centered around... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Basketball Is Ready For Avengers: Doomsday With The AE3 appeared first on Sneaker News . The post adidas Basketball Is Ready For Avengers:",
-   "image": "https://sneakernews.com/wp-content/uploads/2026/11/adidas-ae3-dr-doom-avengers-doomsday-HP4158-1.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "b9c52aff89bb9174",
-   "title": "Tyler, The Creator x Converse Bronco Boot Low Releases November 11th",
-   "link": "https://sneakerbardetroit.com/tyler-the-creator-converse-1908-bronco-boot-low/",
-   "source": "Sneaker Bar Detroit",
-   "site": "https://sneakerbardetroit.com/",
-   "tier": "A",
-   "published": "2026-11-11T01:56:04+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Drop",
-    "Collab"
-   ],
-   "summary": "Converse and Tyler, The Creator have cut down the Bronco Boot for a new four-colorway release. Arriving in Brown, Black, Green, and Yellow, the Converse 1908 Bronco Boot Low retains the original’s chunky sole and duck boot shape with a shorter collar. The design has roots in the Converse Mud Chunk from the 1990s, and […] The post Tyler, The Creator x Converse Bronco Boot Low Releases November 11th",
-   "image": null,
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "3c55d38c7f3f0353",
-   "title": "Sp5der x adidas F50 Formotion Pack Releasing in Two Bright Colorways",
-   "link": "https://sneakerbardetroit.com/sp5der-adidas-f50-formotion-pack-release-date/",
-   "source": "Sneaker Bar Detroit",
-   "site": "https://sneakerbardetroit.com/",
-   "tier": "A",
-   "published": "2026-11-11T00:46:11+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Collab"
-   ],
-   "summary": "After debuting in chrome, the F50 Formotion gets a much brighter follow-up from Young Thug’s Sp5der label. Two new pairs bring green, black, red, and pink to the adidas collaboration, which has already included a take on the Superstar. The Sp5der x adidas F50 Formotion comes in slime green with black accents and a second […] The post Sp5der x adidas F50 Formotion Pack Releasing in Two Bright Color",
-   "image": null,
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "f3e6ed3e4f9d3430",
-   "title": "The Air Jordan 4 “Phantom” Is Another Europe-Exclusive Release For 2027",
-   "link": "https://sneakernews.com/2026/11/10/air-jordan-4-cave-stone-phantom-2027/",
-   "source": "Sneaker News",
-   "site": "https://sneakernews.com/",
-   "tier": "A",
-   "published": "2026-11-11T00:36:20+00:00",
-   "first_seen": "2026-11-11T05:54:40.253504+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "Jordan Brand continues to show Europe some special attention with the Air Jordan 4, as a new women’s-exclusive colorway dubbed “Phantom” is scheduled to release... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 4 \"Phantom\" Is Another Europe-Exclusive Release For 2027 appeared first on Sneaker News . The post The Air Jordan 4 “Phantom” Is Another Europe",
-   "image": "https://sneakernews.com/wp-content/uploads/2026/11/air-jordan-4-cave-stone-phantom-5.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "ea941fd1e3c6df45",
-   "title": "Reebok Question Recoded Review",
-   "link": "https://weartesters.com/reebok-question-recoded-review/",
-   "source": "WearTesters",
-   "site": "https://weartesters.com/",
-   "tier": "A",
-   "published": "2026-11-10T23:35:58+00:00",
-   "first_seen": "2026-11-10T23:40:46.820278+00:00",
-   "signals": [
-    "Drop",
-    "Review"
-   ],
-   "summary": "Performance Retros, so hot right now. Reebok is the latest brand to re-release a classic model – in…",
-   "image": null,
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "cdb9f7777ee88f18",
-   "title": "Where To Buy The Air Jordan 11 “Magic Ball”",
-   "link": "https://sneakernews.com/2026/11/10/air-jordan-11-magic-ball-store-list/",
-   "source": "Sneaker News",
-   "site": "https://sneakernews.com/",
-   "tier": "A",
-   "published": "2026-11-10T23:00:34+00:00",
-   "first_seen": "2026-11-10T23:40:46.820278+00:00",
-   "signals": [
-    "Drop"
-   ],
-   "summary": "Welcome to the Jam… again. Jordan Brand’s whopping Space Jam 30th Anniversary Collection stays dominating the month of November with the release of the Air... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 11 \"Magic Ball\" appeared first on Sneaker News . The post Where To Buy The Air Jordan 11 “Magic Ball” appeared first on Sneaker News .",
-   "image": "https://sneakernews.com/wp-content/themes/sneakernews-redesign/images/kicksfinder-logo.svg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "f6f67f236c66a175",
-   "title": "adidas men LIGHTBLAZE EVO SL SHOES with code \"SHOPBRANDS20\" for $64.80 . Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xt19jm/adidas_men_lightblaze_evo_sl_shoes_with_code/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-10T22:51:28+00:00",
-   "first_seen": "2026-11-10T23:40:46.820278+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$64.80"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "bd3f591aeedb9819",
-   "title": "adidas men Terrex Anylander Rain.Rdy Hiking Shoes with code \"SHOPBRANDS20\" for $42.40 . Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xt18yd/adidas_men_terrex_anylander_rainrdy_hiking_shoes/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-10T22:50:48+00:00",
-   "first_seen": "2026-11-10T23:40:46.820278+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$42.40"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "61f92b1c019211e1",
-   "title": "Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low",
-   "link": "https://sneakernews.com/2026/11/10/tyler-the-creator-converse-bronco-boot-low/",
-   "source": "Sneaker News",
-   "site": "https://sneakernews.com/",
-   "tier": "A",
-   "published": "2026-11-10T22:50:28+00:00",
-   "first_seen": "2026-11-10T23:40:46.820278+00:00",
-   "signals": [
-    "Other"
-   ],
-   "summary": "Especially in his post Flower Boy era, Tyler, the Creator is the owner of one of modern hip-hop’s sturdier discographies, only bolstered by his most... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low appeared first on Sneaker News . The post Tyler, The Creator Chops The Top Off For The Converse",
-   "image": "https://sneakernews.com/wp-content/uploads/2026/11/converse-1908-boot-tyler-the-creator-A24636C-4.jpg",
-   "prices": [],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "19ff64519413974d",
-   "title": "adidas men Terrex Anylander CLIMAWARM+ Hiking Shoes with code \"SHOPBRANDS20\" for $60. Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xt185h/adidas_men_terrex_anylander_climawarm_hiking/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-10T22:49:51+00:00",
-   "first_seen": "2026-11-10T23:40:46.820278+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$60"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "8b330d39f6c68b0f",
-   "title": "adidas men Duramo SL 2 Running Shoes with code \"SHOPBRANDS20\" for $28. Shipping is free. | eBay #ad",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xt14cw/adidas_men_duramo_sl_2_running_shoes_with_code/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-10T22:45:12+00:00",
-   "first_seen": "2026-11-10T23:40:46.820278+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$28"
-   ],
-   "also_in": [],
-   "coverage": 1
-  },
-  {
-   "id": "dc9f83e773d2d74f",
-   "title": "[Nike] Nike Men's Air Max Torch 4 Shoe (2 Colors) on sale for $59.95. Shipping is free for Nike Members (free to join).",
-   "link": "https://www.reddit.com/r/SneakerDeals/comments/1xt13ld/nike_nike_mens_air_max_torch_4_shoe_2_colors_on/",
-   "source": "r/SneakerDeals",
-   "site": "https://www.reddit.com/r/SneakerDeals/",
-   "tier": "A",
-   "published": "2026-11-10T22:44:18+00:00",
-   "first_seen": "2026-11-10T23:40:46.820278+00:00",
-   "signals": [
-    "Sale"
-   ],
-   "summary": "submitted by /u/slacikasac [link] [comments]",
-   "image": null,
-   "prices": [
-    "$59.95"
    ],
    "also_in": [],
    "coverage": 1
