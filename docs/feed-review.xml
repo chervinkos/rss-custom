@@ -5,8 +5,18 @@
 <link>https://chervinkos.github.io/rss-custom</link>
 <description>Only items labelled Review</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 20:07:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:39:54 GMT</lastBuildDate>
 <atom:link href="https://chervinkos.github.io/rss-custom/feed-review.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[Drop] New Balance Kawhi 5 Performance Review</title>
+<link>https://weartesters.com/new-balance-kawhi-5-performance-review/</link>
+<guid isPermaLink="false">ea37328822a0f0e8</guid>
+<pubDate>Mon, 23 Nov 2026 23:39:54 GMT</pubDate>
+<source url="https://weartesters.com/">WearTesters</source>
+<category>Drop</category>
+<category>Review</category>
+<description>It’s been two and a half years since the release of Kawhi Leonard’s last signature shoe with New… Source: WearTesters</description>
+</item>
 <item>
 <title>[Review] The Best Running Shoes of the Year (For Bigger Runners) | Best in Gear (BIG) Awards 2026</title>
 <link>https://believeintherun.com/videos/the-best-running-shoes-of-the-year-for-bigger-runners-best-in-gear-big-awards-20/</link>
@@ -255,26 +265,6 @@
 <category>Drop</category>
 <category>Review</category>
 <description>The first Kobe model released following the Mamba’s retirement is back in performance retro form. The Nike Kobe… Source: WearTesters</description>
-</item>
-<item>
-<title>[Review] Marathon sustainability has its toughest test yet: Elite runners</title>
-<link>https://believeintherun.com/articles/hydrapak-carry-your-own-cim-elite-runners</link>
-<guid isPermaLink="false">da548b28257eae12</guid>
-<pubDate>Wed, 11 Nov 2026 14:00:00 GMT</pubDate>
-<source url="https://believeintherun.com/">Believe in the Run</source>
-<category>Review</category>
-<description>The post Marathon sustainability has its toughest test yet: Elite runners appeared first on Believe in the Run . Source: Believe in the Run</description>
-<enclosure url="https://believeintherun.com/media/2026-11-10/07d58d6c-343a-454f-beb7-ad5c02df5c0c.jpg" length="0" type="image/jpeg"/>
-</item>
-<item>
-<title>[Review] We're ready for winter running, and this is the Janji gear we're wearing</title>
-<link>https://believeintherun.com/shoe-reviews/janji-winter-2026-trail-running-gear/</link>
-<guid isPermaLink="false">010c81464df5c7b6</guid>
-<pubDate>Wed, 11 Nov 2026 13:00:00 GMT</pubDate>
-<source url="https://believeintherun.com/">Believe in the Run</source>
-<category>Review</category>
-<description>The post We're ready for winter running, and this is the Janji gear we're wearing appeared first on Believe in the Run . Source: Believe in the Run</description>
-<enclosure url="https://believeintherun.com/media/2026-11-10/02fa68e6-d743-44a1-abed-c388d4dcc651.jpg" length="0" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
