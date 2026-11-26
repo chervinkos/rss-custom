@@ -5,8 +5,18 @@
 <link>https://chervinkos.github.io/rss-custom</link>
 <description>Only items labelled Review</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 13:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 13:00:00 GMT</lastBuildDate>
 <atom:link href="https://chervinkos.github.io/rss-custom/feed-review.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[Review] Rabbit EZ Chaser Review: Two hops forward, one hop back</title>
+<link>https://believeintherun.com/shoe-reviews/rabbit-ez-chaser-review/</link>
+<guid isPermaLink="false">e265aad2882b9b84</guid>
+<pubDate>Thu, 26 Nov 2026 13:00:00 GMT</pubDate>
+<source url="https://believeintherun.com/">Believe in the Run</source>
+<category>Review</category>
+<description>The post Rabbit EZ Chaser Review: Two hops forward, one hop back appeared first on Believe in the Run . Source: Believe in the Run</description>
+<enclosure url="https://believeintherun.com/media/2026-11-24/1510ab31-0447-43c8-bb5c-1e3638cdc335.jpg" length="0" type="image/jpeg"/>
+</item>
 <item>
 <title>[Review] I just ran the Philadelphia Marathon, and this is the gear I wore</title>
 <link>https://believeintherun.com/articles/philadelphia-marathon-gear-roundup</link>
@@ -235,26 +245,6 @@
 <category>Drop</category>
 <category>Review</category>
 <description>One of the most anticipated Jordan Brand releases of 2026 is the Air Jordan 4 “Bred” (also called… Source: WearTesters</description>
-</item>
-<item>
-<title>[Review] The January Scignal is a stellar debut, so what's next?</title>
-<link>https://believeintherun.com/shoe-reviews/january-scignal-review/</link>
-<guid isPermaLink="false">d4a2db13dc778fae</guid>
-<pubDate>Fri, 13 Nov 2026 14:00:00 GMT</pubDate>
-<source url="https://believeintherun.com/">Believe in the Run</source>
-<category>Review</category>
-<description>The post The January Scignal is a stellar debut, so what's next? appeared first on Believe in the Run . Source: Believe in the Run</description>
-<enclosure url="https://believeintherun.com/media/2026-11-11/f9cc5e70-a6e5-4a46-b184-9823fc02f7ff.jpg" length="0" type="image/jpeg"/>
-</item>
-<item>
-<title>[Review] Skechers finally has its race day shoe, but can the Aero Elite keep up?</title>
-<link>https://believeintherun.com/shoe-reviews/skechers-aero-elite-review/</link>
-<guid isPermaLink="false">ce7c99733485a0ca</guid>
-<pubDate>Fri, 13 Nov 2026 13:00:00 GMT</pubDate>
-<source url="https://believeintherun.com/">Believe in the Run</source>
-<category>Review</category>
-<description>The post Skechers finally has its race day shoe, but can the Aero Elite keep up? appeared first on Believe in the Run . Source: Believe in the Run</description>
-<enclosure url="https://believeintherun.com/media/2026-11-11/6203a84f-97a6-4f51-9e3b-20c8aea14f77.jpg" length="0" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
